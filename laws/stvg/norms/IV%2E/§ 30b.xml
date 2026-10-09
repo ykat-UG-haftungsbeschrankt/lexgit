@@ -1,0 +1,25 @@
+<norm builddate="20260930215509" doknr="BJNR004370909BJNE007305360">
+	<metadaten>
+		<jurabk>StVG</jurabk>
+		<enbez>§ 30b</enbez>
+		<titel format="XML">Automatisiertes Anfrage- und Auskunftsverfahren beim Kraftfahrt-Bundesamt</titel>
+	</metadaten>
+	<textdaten>
+		<text format="XML">
+			<content>
+				<p>(1) Die Übermittlung von Daten aus dem Fahreignungsregister nach § 30 Absatz 1 bis 4b und 7 darf nach näherer Bestimmung durch Rechtsverordnung gemäß § 30c Abs. 1 Nr. 6 in einem automatisierten Anfrage- und Auskunftsverfahren erfolgen. Die anfragende Stelle hat die Zwecke anzugeben, für die die zu übermittelnden Daten benötigt werden.</p>
+				<p>(2) Solche Verfahren dürfen nur eingerichtet werden, wenn gewährleistet ist, dass
+					<dl font="normal" type="arabic">
+						<dt>1.</dt>
+						<dd font="normal"><la size="normal">die zur Sicherung gegen Missbrauch erforderlichen technischen und organisatorischen Maßnahmen ergriffen werden und</la></dd>
+						<dt>2.</dt>
+						<dd font="normal"><la size="normal">die Zulässigkeit der Übermittlung nach Maßgabe des Absatzes 3 kontrolliert werden kann.</la></dd>
+					</dl>
+				</p>
+				<p>(3) Das Kraftfahrt-Bundesamt als übermittelnde Behörde hat Aufzeichnungen zu führen, die die übermittelten Daten, den Zeitpunkt der Übermittlung, den Empfänger der Daten und den vom Empfänger angegebenen Zweck enthalten. § 30a Abs. 3 Satz 3 und 4 gilt entsprechend.</p>
+			</content>
+		</text>
+		<fussnoten>
+			</fussnoten>
+	</textdaten>
+</norm>

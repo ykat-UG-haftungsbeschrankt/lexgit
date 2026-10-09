@@ -1,0 +1,65 @@
+<norm builddate="20260930215509" doknr="BJNR004370909BJNE011001123">
+	<metadaten>
+		<jurabk>StVG</jurabk>
+		<enbez>§ 37b</enbez>
+		<titel format="XML">Übermittlung von Fahrzeug- und Halterdaten nach der Richtlinie (EU) 2015/413</titel>
+	</metadaten>
+	<textdaten>
+		<text format="XML">
+			<content>
+				<p>(1) Das Kraftfahrt-Bundesamt unterstützt nach Absatz 2 die in Artikel 4 Absatz 3 der Richtlinie (EU) 2015/413 genannten nationalen Kontaktstellen der anderen Mitgliedstaaten der Europäischen Union bei den Ermittlungen in Bezug auf folgende in den jeweiligen Mitgliedstaaten begangenen, die Straßenverkehrssicherheit gefährdenden Verkehrsdelikte:
+					<dl font="normal" type="arabic">
+						<dt>1.</dt>
+						<dd font="normal"><la size="normal">Geschwindigkeitsübertretungen,</la></dd>
+						<dt>2.</dt>
+						<dd font="normal"><la size="normal">Nicht-Anlegen des Sicherheitsgurtes,</la></dd>
+						<dt>3.</dt>
+						<dd font="normal"><la size="normal">Überfahren eines roten Lichtzeichens,</la></dd>
+						<dt>4.</dt>
+						<dd font="normal"><la size="normal">Trunkenheit im Straßenverkehr,</la></dd>
+						<dt>5.</dt>
+						<dd font="normal"><la size="normal">Fahren unter Einfluss von berauschenden Mitteln,</la></dd>
+						<dt>6.</dt>
+						<dd font="normal"><la size="normal">Nicht-Tragen eines Schutzhelmes,</la></dd>
+						<dt>7.</dt>
+						<dd font="normal"><la size="normal">unbefugte Benutzung eines Fahrstreifens,</la></dd>
+						<dt>8.</dt>
+						<dd font="normal"><la size="normal">rechtswidrige Benutzung eines Mobiltelefons oder anderer Kommunikationsgeräte beim Fahren.</la></dd>
+					</dl>
+				</p>
+				<p>(2) Auf Anfrage teilt das Kraftfahrt-Bundesamt der nationalen Kontaktstelle eines anderen Mitgliedstaates der Europäischen Union folgende nach § 33 gespeicherten Daten zu Fahrzeug und Halter mit:
+					<dl font="normal" type="arabic">
+						<dt>1.</dt>
+						<dd font="normal"><la size="normal">amtliches Kennzeichen,</la></dd>
+						<dt>2.</dt>
+						<dd font="normal"><la size="normal">Fahrzeug-Identifizierungsnummer,</la></dd>
+						<dt>3.</dt>
+						<dd font="normal"><la size="normal">Land der Zulassung,</la></dd>
+						<dt>4.</dt>
+						<dd font="normal"><la size="normal">Marke des Fahrzeugs,</la></dd>
+						<dt>5.</dt>
+						<dd font="normal"><la size="normal">Handelsbezeichnung,</la></dd>
+						<dt>6.</dt>
+						<dd font="normal"><la size="normal">EU-Fahrzeugklasse,</la></dd>
+						<dt>7.</dt>
+						<dd font="normal"><la size="normal">Name des Halters,</la></dd>
+						<dt>8.</dt>
+						<dd font="normal"><la size="normal">Vorname des Halters,</la></dd>
+						<dt>9.</dt>
+						<dd font="normal"><la size="normal">Anschrift des Halters,</la></dd>
+						<dt>10.</dt>
+						<dd font="normal"><la size="normal">Geschlecht,</la></dd>
+						<dt>11.</dt>
+						<dd font="normal"><la size="normal">Geburtsdatum,</la></dd>
+						<dt>12.</dt>
+						<dd font="normal"><la size="normal">Rechtsperson,</la></dd>
+						<dt>13.</dt>
+						<dd font="normal"><la size="normal">Geburtsort,</la></dd>
+					</dl>
+				wenn dies im Einzelfall für die Erfüllung einer Aufgabe der nationalen Kontaktstelle des anfragenden Mitgliedstaates der Europäischen Union oder der zuständigen Behörde des anfragenden Mitgliedstaates der Europäischen Union erforderlich ist.</p>
+			</content>
+		</text>
+		<fussnoten>
+			</fussnoten>
+	</textdaten>
+</norm>

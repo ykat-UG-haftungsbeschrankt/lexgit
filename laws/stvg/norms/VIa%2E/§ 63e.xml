@@ -1,0 +1,85 @@
+<norm builddate="20260930215509" doknr="BJNR004370909BJNE013000123">
+	<metadaten>
+		<jurabk>StVG</jurabk>
+		<enbez>§ 63e</enbez>
+		<titel format="XML">Datenerhebung, Datenspeicherung und Datenverwendung für das Verkehrsmanagement</titel>
+	</metadaten>
+	<textdaten>
+		<text format="XML">
+			<content>
+				<p>(1) Der jeweils zuständige Straßenbaulastträger oder die abweichend hiervon nach Landesrecht für das Verkehrsmanagement zuständige Behörde darf folgende Daten, soweit sie von Kraftfahrzeugen regelmäßig oder ereignisbezogen auf elektronischem Weg erhoben werden und soweit sie aus diesen Fahrzeugen an andere Kraftfahrzeuge oder an die informationstechnische Straßeninfrastruktur automatisiert versenden werden, zum Zweck des Verkehrsmanagements erheben, speichern und verwenden:
+					<dl type="arabic">
+						<dt>1.</dt>
+						<dd font="normal"><la>Position des Fahrzeugs,</la></dd>
+						<dt>2.</dt>
+						<dd font="normal"><la>Zeitangabe,</la></dd>
+						<dt>3.</dt>
+						<dd font="normal"><la>Fahrtrichtung,</la></dd>
+						<dt>4.</dt>
+						<dd font="normal"><la>Geschwindigkeit,</la></dd>
+						<dt>5.</dt>
+						<dd font="normal"><la>Beschleunigung oder Verzögerung,</la></dd>
+						<dt>6.</dt>
+						<dd font="normal"><la>Lenkwinkel,</la></dd>
+						<dt>7.</dt>
+						<dd font="normal"><la>Lenkradwinkel,</la></dd>
+						<dt>8.</dt>
+						<dd font="normal"><la>Fahrzeugbreite,</la></dd>
+						<dt>9.</dt>
+						<dd font="normal"><la>Fahrzeuglänge,</la></dd>
+						<dt>10.</dt>
+						<dd font="normal"><la>Status der Fahrzeugbeleuchtungseinrichtungen und der Scheibenwischer,</la></dd>
+						<dt>11.</dt>
+						<dd font="normal"><la>Drehbewegung um die Fahrzeughochachse,</la></dd>
+						<dt>12.</dt>
+						<dd font="normal"><la>Fahrzeugcharakteristik: Pkw, Lkw, Krad, öffentliches Verkehrsmittel, Fahrzeug mit Sonderrechten oder Fahrzeug des öffentlichen Personennahverkehrs,</la></dd>
+						<dt>13.</dt>
+						<dd font="normal"><la>plötzlich eintretende Ereignisse mit Sicherheitsrelevanz, auf Grund derer ereignisbasierte Fahrzeugmeldungen generiert werden: Stauende, Notbremsung, vorübergehend rutschige Fahrbahn, Tiere, Personen, Hindernisse, Gegenstände auf der Fahrbahn, ungesicherte Unfallstellen, Kurzzeitbaustellen, eingeschränkte Sicht, Falschfahrer, nicht ausgeschilderte Straßenblockierungen oder außergewöhnliche Witterungsbedingungen, sowie</la></dd>
+						<dt>14.</dt>
+						<dd font="normal"><la>ZertifikatsID der in den Nummern 1 bis 13 genannten Daten.</la></dd>
+					</dl>
+				</p>
+				<p>(2) Verkehrsmanagement im Sinne dieser Vorschrift ist
+					<dl type="arabic">
+						<dt>1.</dt>
+						<dd font="normal">
+							<la>die Erfassung der Verkehrsstärke und der sonstigen Verkehrssituation einschließlich sicherheitsrelevanter Umfeldsituationen anhand
+								<dl type="alpha">
+									<dt>a)</dt>
+									<dd font="normal"><la>der Anzahl der Fahrzeuge,</la></dd>
+									<dt>b)</dt>
+									<dd font="normal"><la>der Fahrzeuggeschwindigkeit,</la></dd>
+									<dt>c)</dt>
+									<dd font="normal"><la>der Art und Maße des Fahrzeugs,</la></dd>
+									<dt>d)</dt>
+									<dd font="normal"><la>der Lenkung, des Beleuchtungs- und des Scheibenwischerstatus des Fahrzeugs,</la></dd>
+									<dt>e)</dt>
+									<dd font="normal"><la>der zum Durchfahren eines bestimmten Abschnitts erforderlichen Zeit (Reisezeit),</la></dd>
+									<dt>f)</dt>
+									<dd font="normal"><la>abrupter Fahrzeugverzögerungen und</la></dd>
+									<dt>g)</dt>
+									<dd font="normal"><la>des Liegenbleibens von Fahrzeugen auf der Fahrbahn sowie</la></dd>
+								</dl>
+							</la>
+						</dd>
+						<dt>2.</dt>
+						<dd font="normal"><la>die unverzügliche statistische Auswertung der erfassten Daten zum Zwecke der Verkehrslenkung sowie der Verbesserung des Verkehrsflusses und der Verkehrssicherheit.</la></dd>
+					</dl>
+				Die Verarbeitung der Daten zu anderen Zwecken ist unzulässig.</p>
+				<p>(3) Der jeweils für das Verkehrsmanagement zuständige Straßenbaulastträger oder die abweichend hiervon nach Landesrecht für das Verkehrsmanagement zuständige Behörde hat die in Absatz 1 genannten Daten zu dem in Absatz 2 genannten Zweck
+					<dl type="arabic">
+						<dt>1.</dt>
+						<dd font="normal"><la>unverzüglich hinsichtlich Vollständigkeit und Mehrfachempfang zu prüfen und unbrauchbar unvollständige Datensätze oder mehr als einmal empfangene Datensätze bis auf den zuerst empfangenen Datensatz vor Beginn der Auswertung automatisiert zu löschen,</la></dd>
+						<dt>2.</dt>
+						<dd font="normal"><la>vor Beginn der Auswertung durch unverzügliche Löschung des Datums nach Absatz 1 Nummer 14 zu anonymisieren, dies gilt nicht im Fall der Auswertung von Reisezeiten zur Optimierung der Netzsteuerung, und</la></dd>
+						<dt>3.</dt>
+						<dd font="normal"><la>nach vollzogener Anonymisierung gemäß Nummer 2 unverzüglich auszuwerten.</la></dd>
+					</dl>
+				</p>
+				<p>(4) Nach der Auswertung sind die in Absatz 1 genannten Daten unverzüglich zu löschen. Das Erstellen von Verkehrsstatistiken gilt als Auswertung.</p>
+			</content>
+		</text>
+		<fussnoten>
+			</fussnoten>
+	</textdaten>
+</norm>

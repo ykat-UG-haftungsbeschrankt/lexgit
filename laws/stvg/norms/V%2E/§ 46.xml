@@ -1,0 +1,51 @@
+<norm builddate="20260930215509" doknr="BJNR004370909BJNE007003123">
+	<metadaten>
+		<jurabk>StVG</jurabk>
+		<enbez>§ 46</enbez>
+		<titel format="XML">Auskunft über Fahrzeugdaten unter Verarbeitung personenbezogener Daten</titel>
+	</metadaten>
+	<textdaten>
+		<text format="XML">
+			<content>
+				<p>(1) Das Kraftfahrt-Bundesamt darf nach Maßgabe des Satzes 2 Auskünfte unter Verarbeitung der Fahrzeug-Identifizierungsnummer erteilen über
+					<dl font="normal" type="arabic">
+						<dt>1.</dt>
+						<dd font="normal">
+							<la size="normal">Fahrzeugdaten,
+								<dl font="normal" type="alpha">
+									<dt>a)</dt>
+									<dd font="normal"><la size="normal">soweit diese Fahrzeugdaten zugänglich zu machen sind nach Artikel 12 Absatz 2 der Verordnung (EU) 2018/858 oder</la></dd>
+									<dt>b)</dt>
+									<dd font="normal"><la size="normal">soweit diese Fahrzeugdaten im Umfang der jeweiligen unionsrechtlichen Übereinstimmungsbescheinigung in einer Fahrzeugdatenbank beim Kraftfahrt-Bundesamt vorhanden sind und Fahrzeugklassen betreffen, die nicht von Buchstabe a umfasst sind,</la></dd>
+								</dl>
+							</la>
+						</dd>
+						<dt>2.</dt>
+						<dd font="normal">
+							<la size="normal">fahrzeugbezogene Maßnahmen
+								<dl font="normal" type="alpha">
+									<dt>a)</dt>
+									<dd font="normal"><la size="normal">im Sinne des § 32 Absatz 3 und deren Durchführungsstand oder</la></dd>
+									<dt>b)</dt>
+									<dd font="normal"><la size="normal">im Sinne des § 35 Absatz 2 Satz 1 Nummer 1 Buchstabe a, b oder c, einschließlich Rückrufe, und deren Durchführungsstand.</la></dd>
+								</dl>
+							</la>
+						</dd>
+					</dl>
+				Das Kraftfahrt-Bundesamt darf die Auskünfte nach Satz 1 zu einem Fahrzeug für diejenige Person elektronisch bereitstellen, die die zugehörige Fahrzeug-Identifizierungsnummer in einer Anwendung auf der Internetseite des Kraftfahrt-Bundesamtes angibt.</p>
+				<p>(2) Das Kraftfahrt-Bundesamt darf den Zulassungsstatus eines Fahrzeugs in einer zum Zweck der Marktüberwachung oder der Erteilung von Auskünften nach Absatz 1 Satz 1 Nummer 2 geführten Datenbank regelmäßig anhand der Fahrzeug-Identifizierungsnummer mit dem Zentralen Fahrzeugregister abgleichen, um von diesbezüglichen Maßnahmen betroffene Fahrzeuge zu identifizieren.</p>
+				<p>(3) Enthalten eine fahrzeugbezogene Genehmigung oder eine fahrzeugbezogene Bescheinigung die Angabe von Fahrzeug-Identifizierungsnummern oder des Kennzeichens des Fahrzeugs, so darf das Kraftfahrt-Bundesamt diese Fahrzeug-Identifizierungsnummern und das Kennzeichen als Bestandteil der Genehmigung oder der Bescheinigung verarbeiten, sofern die Verarbeitung der Genehmigung oder der Bescheinigung zur Erfüllung seiner ihm durch eine Rechtsvorschrift zugewiesenen Aufgaben erforderlich ist.</p>
+				<p>(4) Das Kraftfahrt-Bundesamt darf die Fahrzeug-Identifizierungsnummer zu Zwecken der wissenschaftlichen Forschung oder der amtlichen Statistik erheben, speichern und verwenden, sofern
+					<dl font="normal" type="arabic">
+						<dt>1.</dt>
+						<dd font="normal"><la size="normal">dies zur Erreichung dieser Zwecke erforderlich ist und</la></dd>
+						<dt>2.</dt>
+						<dd font="normal"><la size="normal">die Datensätze neben der Fahrzeug-Identifizierungsnummer jeweils nur Angaben nach § 33 Absatz 1 Satz 1 Nummer 1 und Absatz 2 oder Daten der unionsrechtlich vorgeschriebenen Übereinstimmungsbescheinigungen enthalten.</la></dd>
+					</dl>
+				Datensätze nach Satz 1 Nummer 2 sind unverzüglich zu anonymisieren, wenn die Verwendung der Fahrzeug-Identifizierungsnummer als Identifizierungsmerkmal nicht mehr erforderlich ist.</p>
+			</content>
+		</text>
+		<fussnoten>
+			</fussnoten>
+	</textdaten>
+</norm>

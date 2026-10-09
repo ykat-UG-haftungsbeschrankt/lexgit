@@ -1,0 +1,15 @@
+{
+	"chat.tools.terminal.autoApprove": {
+		"./node_modules/.bin/esbuild": true,
+		"awk": true,
+		"npm run check": true,
+		"/^node --input-type=module -e 'import \\{ build \\} from \"esbuild\"; await build\\(\\{entryPoints:\\[\"tests/xml-formatter\\.test\\.ts\",\"tests/xml-import\\.test\\.ts\"\\],outdir:\"/home/axu/\\.copilot/session-state/7f3c7bd6-8789-40c2-ab21-87f16ddac1ff/files/xml-tests\",bundle:true,platform:\"node\",format:\"esm\"\\}\\);' && node --test /home/axu/\\.copilot/session-state/7f3c7bd6-8789-40c2-ab21-87f16ddac1ff/files/xml-tests/\\*\\.js$/": {
+			"approve": true,
+			"matchCommandLine": true
+		},
+		"/^node --input-type=module -e 'import \\{ build \\} from \"esbuild\"; await build\\(\\{entryPoints:\\[\"tests/request\\.test\\.ts\",\"tests/xml-formatter\\.test\\.ts\",\"tests/xml-import\\.test\\.ts\",\"tests/xml-save\\.test\\.ts\"\\],outdir:\"/home/axu/\\.copilot/session-state/7f3c7bd6-8789-40c2-ab21-87f16ddac1ff/files/refactor-tests\",outExtension:\\{\"\\.js\":\"\\.mjs\"\\},bundle:true,platform:\"node\",format:\"esm\"\\}\\);' && node --test /home/axu/\\.copilot/session-state/7f3c7bd6-8789-40c2-ab21-87f16ddac1ff/files/refactor-tests/request\\.test\\.mjs /home/axu/\\.copilot/session-state/7f3c7bd6-8789-40c2-ab21-87f16ddac1ff/files/refactor-tests/xml-formatter\\.test\\.mjs /home/axu/\\.copilot/session-state/7f3c7bd6-8789-40c2-ab21-87f16ddac1ff/files/refactor-tests/xml-import\\.test\\.mjs /home/axu/\\.copilot/session-state/7f3c7bd6-8789-40c2-ab21-87f16ddac1ff/files/refactor-tests/xml-save\\.test\\.mjs$/": {
+			"approve": true,
+			"matchCommandLine": true
+		}
+	}
+}

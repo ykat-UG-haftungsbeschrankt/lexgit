@@ -1,0 +1,39 @@
+<norm builddate="20260930215509" doknr="BJNR004370909BJNE012000124">
+	<metadaten>
+		<jurabk>StVG</jurabk>
+		<enbez>§ 63c</enbez>
+		<titel format="XML">Datenverarbeitung im Rahmen der Überprüfung der Einhaltung von Verkehrsbeschränkungen und Verkehrsverboten aufgrund immissionsschutzrechtlicher Vorschriften oder aufgrund straßenverkehrsrechtlicher Vorschriften zum Schutz vor Abgasen</titel>
+	</metadaten>
+	<textdaten>
+		<text format="XML">
+			<content>
+				<p>(1) Zur Überprüfung der Einhaltung von Verkehrsbeschränkungen und Verkehrsverboten, die aufgrund des § 40 des Bundes-Immissionsschutzgesetzes nach Maßgabe der straßenverkehrsrechtlichen Vorschriften angeordnet worden sind oder aufgrund straßenverkehrsrechtlicher Vorschriften zum Schutz der Wohnbevölkerung oder der Bevölkerung vor Abgasen zur Abwehr von immissionsbedingten Gefahren ergangen sind, darf die nach Landesrecht zuständige Behörde im Rahmen von stichprobenartigen Überprüfungen mit mobilen Geräten folgende Daten, auch durch selbsttätiges Wirken des von ihr verwendeten Gerätes, erheben, speichern und verwenden:
+					<dl font="normal" type="arabic">
+						<dt>1.</dt>
+						<dd font="normal"><la size="normal">das Kennzeichen des Fahrzeugs oder der Fahrzeugkombination, die in einem Gebiet mit Verkehrsbeschränkungen oder Verkehrsverboten am Verkehr teilnehmen,</la></dd>
+						<dt>2.</dt>
+						<dd font="normal"><la size="normal">die für die Berechtigung zur Teilnahme am Verkehr in Gebieten mit Verkehrsbeschränkungen oder Verkehrsverboten erforderlichen Merkmale des Fahrzeugs oder der Fahrzeugkombination,</la></dd>
+						<dt>3.</dt>
+						<dd font="normal"><la size="normal">das durch eine Einzelaufnahme hergestellte Bild des Fahrzeugs und des Fahrers,</la></dd>
+						<dt>4.</dt>
+						<dd font="normal"><la size="normal">den Ort und die Zeit der Teilnahme am Verkehr im Gebiet mit Verkehrsbeschränkungen oder Verkehrsverboten.</la></dd>
+					</dl>
+				Eine verdeckte Datenerhebung ist unzulässig.</p>
+				<p>(2) Die nach Landesrecht zuständige Behörde darf anhand der Daten nach Absatz 1 Satz 1 Nummer 1 beim Zentralen Fahrzeugregister die nach § 33 Absatz 1 Satz 1 Nummer 1 für das jeweilige Fahrzeug gespeicherten und für die Überprüfung der Einhaltung der jeweiligen Verkehrsbeschränkungen und Verkehrsverbote erforderlichen Fahrzeugdaten in dem in § 36 Absatz 2i vorgesehenen Verfahren abrufen, um festzustellen, ob für das Fahrzeug eine Verkehrsbeschränkung oder ein Verkehrsverbot gilt. Der Abruf und die Feststellung haben unverzüglich zu erfolgen.</p>
+				<p>(3) Die Daten nach Absatz 1 Satz 1 Nummer 1 bis 4 und Absatz 2 dürfen ausschließlich zum Zweck der Verfolgung von diesbezüglichen Ordnungswidrigkeiten an die hierfür zuständige Verwaltungsbehörde übermittelt werden. Diese Datenübermittlung hat unverzüglich nach Abschluss der Prüfung nach Absatz 2 zu erfolgen.</p>
+				<p>(4) Die Daten nach Absatz 1 Satz 1 Nummer 1 bis 4 und Absatz 2 sind von der in Absatz 1 genannten Behörde unverzüglich zu löschen,
+					<dl font="normal" type="arabic">
+						<dt>1.</dt>
+						<dd font="normal"><la size="normal">sobald die nach Absatz 2 vorzunehmende Prüfung ergibt, dass das Fahrzeug berechtigt ist, am Verkehr im Gebiet mit Verkehrsbeschränkungen oder Verkehrsverboten teilzunehmen, oder</la></dd>
+						<dt>2.</dt>
+						<dd font="normal"><la size="normal">nach der Übermittlung an die in Absatz 3 genannte, für die Verfolgung von diesbezüglichen Ordnungswidrigkeiten zuständige Verwaltungsbehörde, wenn die nach Absatz 2 vorzunehmende Prüfung ergibt, dass das Fahrzeug nicht berechtigt ist, am Verkehr im Gebiet mit Verkehrsbeschränkungen oder Verkehrsverboten teilzunehmen.</la></dd>
+					</dl>
+				Alle Daten sind von der in Absatz 1 genannten Behörde, sofern sie nach den vorgenannten Vorschriften nicht vorher zu löschen sind, spätestens zwei Wochen nach ihrer erstmaligen Erhebung zu löschen.</p>
+				<p>(5) Für die Löschung der Daten nach Absatz 1 Satz 1 Nummer 1 bis 4 und Absatz 2 durch die für die Verfolgung von diesbezüglichen Ordnungswidrigkeiten zuständige Verwaltungsbehörde gelten die Vorschriften für das Bußgeldverfahren.</p>
+				<p>(6) Sonstige Regelungen über die Überprüfung der Einhaltung des Straßenverkehrsrechts, insbesondere des Landesrechts, bleiben unberührt.</p>
+			</content>
+		</text>
+		<fussnoten>
+			</fussnoten>
+	</textdaten>
+</norm>

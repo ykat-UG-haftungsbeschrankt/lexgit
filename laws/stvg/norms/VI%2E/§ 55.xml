@@ -1,0 +1,27 @@
+<norm builddate="20260930215509" doknr="BJNR004370909BJNE008702126">
+	<metadaten>
+		<jurabk>StVG</jurabk>
+		<enbez>§ 55</enbez>
+		<titel format="XML">Übermittlung von Daten an Stellen außerhalb des Geltungsbereiches dieses Gesetzes</titel>
+	</metadaten>
+	<textdaten>
+		<text format="XML">
+			<content>
+				<p>(1) Die auf Grund des § 50 gespeicherten Daten dürfen von den Registerbehörden an die hierfür zuständigen Stellen anderer Staaten übermittelt werden, soweit dies
+					<dl font="normal" type="arabic">
+						<dt>1.</dt>
+						<dd font="normal"><la size="normal">für Verwaltungsmaßnahmen auf dem Gebiet des Straßenverkehrs,</la></dd>
+						<dt>2.</dt>
+						<dd font="normal"><la size="normal">zur Verfolgung von Zuwiderhandlungen gegen Rechtsvorschriften auf dem Gebiet des Straßenverkehrs oder</la></dd>
+						<dt>3.</dt>
+						<dd font="normal"><la size="normal">zur Verfolgung von Straftaten, die im Zusammenhang mit dem Straßenverkehr oder sonst mit Kraftfahrzeugen oder Anhängern oder Fahrzeugpapieren, Fahrerlaubnissen oder Führerscheinen stehen,</la></dd>
+					</dl>
+				erforderlich ist.</p>
+				<p>(2) Der Empfänger ist darauf hinzuweisen, dass die übermittelten Daten nur zu dem Zweck verarbeitet werden dürfen, zu dessen Erfüllung sie ihm übermittelt werden.</p>
+				<p>(3) Die Übermittlung unterbleibt, wenn durch sie schutzwürdige Interessen der betroffenen Person beeinträchtigt würden, insbesondere wenn im Empfängerland ein angemessener Datenschutzstandard nicht gewährleistet ist.</p>
+			</content>
+		</text>
+		<fussnoten>
+			</fussnoten>
+	</textdaten>
+</norm>

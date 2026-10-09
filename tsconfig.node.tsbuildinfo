@@ -1,0 +1,1 @@
+{"root":["./src/types.d.ts","./vite.config.ts","./src/law/parser.ts","./src/law/git.ts","./src/law/manage.ts","./src/server/api.ts","./src/server/desktop.ts","./src/server/vite.ts","./src/electron/main.ts","./src/electron/preload.ts","./src/electron/repositories.ts"],"version":"5.9.3"}

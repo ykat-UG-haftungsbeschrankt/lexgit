@@ -1,0 +1,35 @@
+<norm builddate="20260930215509" doknr="BJNR004370909BJNE012800123">
+	<metadaten>
+		<jurabk>StVG</jurabk>
+		<enbez>§ 39a</enbez>
+		<titel format="XML">Auskunft über Daten</titel>
+	</metadaten>
+	<textdaten>
+		<text format="XML">
+			<content>
+				<p>(1) Einer Person wird auf Antrag schriftlich über die zu ihrer Person im örtlichen oder im Zentralen Fahrzeugregister gespeicherten Daten und über die zu ihr als Halter gespeicherten Fahrzeugdaten unentgeltlich Auskunft erteilt. Die Auskunft kann elektronisch erteilt werden, wenn der Antrag unter Nutzung des elektronischen Identitätsnachweises nach § 18 des Personalausweisgesetzes, nach § 12 des eID-Karte-Gesetzes oder nach § 78 Absatz 5 des Aufenthaltsgesetzes gestellt wird; in diesen Fällen gilt abweichend von § 35 Absatz 6 Satz 4 hinsichtlich der Protokollierung § 36 Absatz 6 entsprechend.</p>
+				<p>(2) Einer Person darf auf Antrag schriftlich über die zu einem Dritten als Halter im örtlichen oder im Zentralen Fahrzeugregister gespeicherten Fahrzeugdaten unentgeltlich Auskunft erteilt werden, wenn
+					<dl type="arabic">
+						<dt>1.</dt>
+						<dd font="normal">
+							<la>der Antragsteller
+								<dl type="alpha">
+									<dt>a)</dt>
+									<dd font="normal"><la>nachweist, dass die Verfügungsbefugnis des Halters über dessen Fahrzeuge gesetzlich oder in Folge gerichtlicher Anordnung auf den Antragsteller übergegangen ist oder auch vom Antragsteller ausgeübt werden kann, und</la></dd>
+									<dt>b)</dt>
+									<dd font="normal"><la>glaubhaft macht, dass er die Daten zur Wahrnehmung straßenverkehrsrechtlicher Angelegenheiten des Halters benötigt,</la></dd>
+								</dl>
+							</la>
+						</dd>
+						<dt>2.</dt>
+						<dd font="normal"><la>der Antragsteller die Daten auf andere Weise entweder nicht oder nur mit unverhältnismäßigem Aufwand erlangen könnte und</la></dd>
+						<dt>3.</dt>
+						<dd font="normal"><la>kein Grund zu der Annahme besteht, dass durch die Auskunft schutzwürdige Interessen des Halters beeinträchtigt werden.</la></dd>
+					</dl>
+				Für die sichere Identifizierung bei der Antragstellung und für die elektronische Auskunftserteilung gilt § 30 Absatz 8 Satz 2 und 3 entsprechend; abweichend von § 35 Absatz 6 Satz 4 gilt hinsichtlich der Protokollierung § 36 Absatz 6 entsprechend.</p>
+			</content>
+		</text>
+		<fussnoten>
+			</fussnoten>
+	</textdaten>
+</norm>

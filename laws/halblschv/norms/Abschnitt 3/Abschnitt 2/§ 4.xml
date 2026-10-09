@@ -1,0 +1,24 @@
+<norm builddate="20260506175243" doknr="BJNR089400004BJNE000600000">
+	<metadaten>
+		<jurabk>HalblSchV</jurabk>
+		<enbez>§ 4</enbez>
+		<titel format="parat">Unterlagen zur Identifizierung oder Veranschaulichung</titel>
+	</metadaten>
+	<textdaten>
+		<text format="XML">
+			<content>
+				<p>(1) Zur Identifizierung oder Veranschaulichung der Topografie sind folgende Unterlagen einzureichen:
+					<dl font="normal" type="arabic">
+						<dt>1.</dt>
+						<dd font="normal"><la size="normal">Zeichnungen oder Fotografien von Layouts zur Herstellung des Halbleitererzeugnisses,</la></dd>
+						<dt>2.</dt>
+						<dd font="normal"><la size="normal">Zeichnungen oder Fotografien von Masken oder ihren Teilen zur Herstellung des Halbleitererzeugnisses oder</la></dd>
+						<dt>3.</dt>
+						<dd font="normal"><la size="normal">Zeichnungen oder Fotografien von einzelnen Schichten des Halbleitererzeugnisses.</la></dd>
+					</dl>
+				</p>
+				<p>(2) Ergänzend zu den in Absatz 1 genannten Unterlagen können Datenträger oder Ausdrucke davon oder das Halbleitererzeugnis, für dessen Topografie Schutz beantragt wird, oder eine erläuternde Beschreibung eingereicht werden.</p>
+			</content>
+		</text>
+	</textdaten>
+</norm>

@@ -1,0 +1,42 @@
+<norm builddate="20260930215509" doknr="BJNR004370909BJNE008206124">
+	<metadaten>
+		<jurabk>StVG</jurabk>
+		<enbez>§ 50</enbez>
+		<titel format="XML">Inhalt der Fahrerlaubnisregister</titel>
+	</metadaten>
+	<textdaten>
+		<text format="XML">
+			<content>
+				<p>(1) In den örtlichen Fahrerlaubnisregistern und im Zentralen Fahrerlaubnisregister werden gespeichert
+					<dl font="normal" type="arabic">
+						<dt>1.</dt>
+						<dd font="normal"><la size="normal">Familiennamen, Geburtsnamen, sonstige frühere Namen, Vornamen, Ordens- oder Künstlername, Doktorgrad, Geschlecht, Tag und Ort der Geburt,</la></dd>
+						<dt>2.</dt>
+						<dd font="normal"><la size="normal">nach näherer Bestimmung durch Rechtsverordnung gemäß § 63 Nummer 2 Daten über Erteilung und Registrierung (einschließlich des Umtausches oder der Registrierung einer deutschen Fahrerlaubnis im Ausland), Bestand, Art, Umfang, Gültigkeitsdauer, Verlängerung und Änderung der Fahrerlaubnis, Datum des Beginns und des Ablaufs der Probezeit, Nebenbestimmungen zur Fahrerlaubnis, über Führerscheine und deren Geltung einschließlich der Ausschreibung zur Sachfahndung, sonstige Berechtigungen, ein Kraftfahrzeug zu führen, sowie Hinweise auf Eintragungen im Fahreignungsregister, die die Berechtigung zum Führen von Kraftfahrzeugen berühren.</la></dd>
+					</dl>
+				</p>
+				<p>(2) In den örtlichen Fahrerlaubnisregistern dürfen außerdem gespeichert werden
+					<dl font="normal" type="arabic">
+						<dt>1.</dt>
+						<dd font="normal"><la size="normal">die Anschrift und die E-Mail-Adresse, soweit vom Antragsteller angegeben, der betroffenen Person, Staatsangehörigkeit, Art des Ausweisdokuments sowie</la></dd>
+						<dt>2.</dt>
+						<dd font="normal">
+							<la size="normal">nach näherer Bestimmung durch Rechtsverordnung gemäß § 63 Nummer 2 Daten über
+								<dl font="normal" type="arabic">
+									<dt>a)</dt>
+									<dd font="normal"><la size="normal">Versagung, Entziehung, Widerruf und Rücknahme der Fahrerlaubnis, Verzicht auf die Fahrerlaubnis, isolierte Sperren, Fahrverbote sowie die Beschlagnahme, Sicherstellung und Verwahrung von Führerscheinen sowie Maßnahmen nach § 2a Abs. 2 und § 4 Absatz 5,</la></dd>
+									<dt>b)</dt>
+									<dd font="normal"><la size="normal">Verbote oder Beschränkungen, ein Fahrzeug zu führen.</la></dd>
+								</dl>
+							</la>
+						</dd>
+					</dl>
+				</p>
+				<p>(3) Im Zentralen Fahrerlaubnisregister dürfen zusätzlich zu Absatz 1 der Grund des Erlöschens der Fahrerlaubnis oder einer Fahrerlaubnisklasse, die Dauer der Probezeit einschließlich der Restdauer nach vorzeitiger Beendigung der Probezeit, Beginn und Ende einer Hemmung der Probezeit und die Behörde, die die Unterlagen im Zusammenhang mit dem Erteilen, dem Entziehen oder dem Erlöschen einer Fahrerlaubnis oder Fahrerlaubnisklasse (Fahrerlaubnisakte) führt, gespeichert werden.</p>
+				<p>(4) Sobald ein örtliches Fahrerlaubnisregister nach Maßgabe des § 65 Absatz 2 Satz 1 nicht mehr geführt werden darf, gelten die Absätze 1 und 2 im Hinblick auf die örtlichen Fahrerlaubnisregister nur noch für die in § 65 Absatz 2a bezeichneten Daten.</p>
+			</content>
+		</text>
+		<fussnoten>
+			</fussnoten>
+	</textdaten>
+</norm>

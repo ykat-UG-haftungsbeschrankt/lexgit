@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="de">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta http-equiv="Content-Security-Policy" content="default-src 'none'; script-src 'self'; style-src 'self';">
+	<title>Office Law — Repository öffnen</title>
+	<link rel="stylesheet" href="launcher.css">
+</head>
+<body>
+	<main>
+		<h1>Office Law</h1>
+		<p>Öffne ein lokales Git-Repository oder klone eines von einer HTTPS- oder SSH-URL.</p>
+		<p>Gesetze werden im Ordner <code>laws/</code> des Repositorys gelesen und gespeichert. Git muss installiert sein.</p>
+		<button id="open" type="button">Lokales Repository öffnen</button>
+		<form id="clone">
+			<label for="url">Repository-URL</label>
+			<input id="url" type="text" placeholder="https://github.com/organisation/repository.git" required>
+			<button type="submit">Repository klonen und öffnen</button>
+		</form>
+		<p>Private Repositorys nutzen die vorhandene Git-Zugangsdatenverwaltung oder SSH-Schlüssel. Zugangsdaten nicht in die URL schreiben.</p>
+		<p id="status" role="status"></p>
+		<p id="error" role="alert"></p>
+	</main>
+	<script src="launcher.js"></script>
+</body>
+</html>

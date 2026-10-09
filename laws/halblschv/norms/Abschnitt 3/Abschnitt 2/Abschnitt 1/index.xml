@@ -1,0 +1,17 @@
+<norm builddate="20260506175243" doknr="BJNR089400004BJNG000100000">
+	<metadaten>
+		<jurabk>HalblSchV</jurabk>
+		<gliederungseinheit>
+			<gliederungskennzahl>010010010</gliederungskennzahl>
+			<gliederungsbez>Abschnitt 1</gliederungsbez>
+			<gliederungstitel>Allgemeines</gliederungstitel>
+		</gliederungseinheit>
+	</metadaten>
+	<textdaten>
+		<text format="XML">
+			<content>
+				<p></p>
+			</content>
+		</text>
+	</textdaten>
+</norm>

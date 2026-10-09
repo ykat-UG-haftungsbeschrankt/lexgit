@@ -1,0 +1,25 @@
+<norm builddate="20260930215509" doknr="BJNR004370909BJNE001805119">
+	<metadaten>
+		<jurabk>StVG</jurabk>
+		<enbez>§ 8</enbez>
+		<titel format="XML">Ausnahmen</titel>
+	</metadaten>
+	<textdaten>
+		<text format="XML">
+			<content>
+				<p>Die Vorschriften des § 7 gelten nicht,
+					<dl font="normal" type="arabic">
+						<dt>1.</dt>
+						<dd font="normal"><la size="normal">wenn der Unfall durch ein Kraftfahrzeug verursacht wurde, das auf ebener Bahn mit keiner höheren Geschwindigkeit als 20 Kilometer in der Stunde fahren kann, es sei denn, es handelt sich um ein Kraftfahrzeug mit autonomer Fahrfunktion im Sinne des § 1d Absatz 1 und 2, das sich im autonomen Betrieb befindet, oder um ein Kraftfahrzeug im Sinne des § 1 Absatz 1 der Elektrokleinstfahrzeuge-Verordnung,</la></dd>
+						<dt>2.</dt>
+						<dd font="normal"><la size="normal">wenn der Verletzte bei dem Betrieb des Kraftfahrzeugs tätig war oder</la></dd>
+						<dt>3.</dt>
+						<dd font="normal"><la size="normal">wenn eine Sache beschädigt worden ist, die durch das Kraftfahrzeug befördert worden ist, es sei denn, dass eine beförderte Person die Sache an sich trägt oder mit sich führt.</la></dd>
+					</dl>
+				</p>
+			</content>
+		</text>
+		<fussnoten>
+			</fussnoten>
+	</textdaten>
+</norm>

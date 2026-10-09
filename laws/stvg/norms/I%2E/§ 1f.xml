@@ -1,0 +1,53 @@
+<norm builddate="20260930215509" doknr="BJNR004370909BJNE013400123">
+	<metadaten>
+		<jurabk>StVG</jurabk>
+		<enbez>§ 1f</enbez>
+		<titel format="XML">Pflichten der Beteiligten beim Betrieb von Kraftfahrzeugen mit autonomer Fahrfunktion</titel>
+	</metadaten>
+	<textdaten>
+		<text format="XML">
+			<content>
+				<p>(1) Der Halter eines Kraftfahrzeugs mit autonomer Fahrfunktion ist zur Erhaltung der Verkehrssicherheit und der Umweltverträglichkeit des Kraftfahrzeugs verpflichtet und hat die hierfür erforderlichen Vorkehrungen zu treffen. Er hat
+					<dl type="arabic">
+						<dt>1.</dt>
+						<dd font="normal"><la>die regelmäßige Wartung der für die autonome Fahrfunktion erforderlichen Systeme sicherzustellen,</la></dd>
+						<dt>2.</dt>
+						<dd font="normal"><la>Vorkehrungen zu treffen, dass die sonstigen, nicht an die Fahrzeugführung gerichteten Verkehrsvorschriften eingehalten werden und</la></dd>
+						<dt>3.</dt>
+						<dd font="normal"><la>zu gewährleisten, dass die Aufgaben der Technischen Aufsicht erfüllt werden.</la></dd>
+					</dl>
+				</p>
+				<p>(2) Die Technische Aufsicht über ein Kraftfahrzeug mit autonomer Fahrfunktion ist verpflichtet,
+					<dl type="arabic">
+						<dt>1.</dt>
+						<dd font="normal"><la>ein alternatives Fahrmanöver nach § 1e Absatz 2 Nummer 4 und Absatz 3 zu bewerten und das Kraftfahrzeug hierfür freizuschalten, sobald ihr ein solches optisch, akustisch oder sonst wahrnehmbar durch das Fahrzeugsystem angezeigt wird, die vom Fahrzeugsystem bereitgestellten Daten ihr eine Beurteilung der Situation ermöglichen und die Durchführung des alternativen Fahrmanövers nicht die Verkehrssicherheit gefährdet,</la></dd>
+						<dt>2.</dt>
+						<dd font="normal"><la>die autonome Fahrfunktion unverzüglich zu deaktivieren, sobald dies optisch, akustisch oder sonst wahrnehmbar durch das Fahrzeugsystem angezeigt wird,</la></dd>
+						<dt>3.</dt>
+						<dd font="normal"><la>Signale der technischen Ausrüstung zum eigenen Funktionsstatus zu bewerten und gegebenenfalls erforderliche Maßnahmen zur Verkehrssicherung einzuleiten und</la></dd>
+						<dt>4.</dt>
+						<dd font="normal"><la>unverzüglich Kontakt mit den Insassen des Kraftfahrzeugs herzustellen und die zur Verkehrssicherung notwendigen Maßnahmen einzuleiten, wenn das Kraftfahrzeug in den risikominimalen Zustand versetzt wird.</la></dd>
+					</dl>
+				</p>
+				<p>(3) Der Hersteller eines Kraftfahrzeugs mit autonomer Fahrfunktion hat
+					<dl type="arabic">
+						<dt>1.</dt>
+						<dd font="normal"><la>über den gesamten Entwicklungs- und Betriebszeitraum des Kraftfahrzeugs gegenüber dem Kraftfahrt-Bundesamt und der zuständigen Behörde nachzuweisen, dass die elektronische und elektrische Architektur des Kraftfahrzeugs und die mit dem Kraftfahrzeug in Verbindung stehende elektronische und elektrische Architektur vor Angriffen gesichert ist,</la></dd>
+						<dt>2.</dt>
+						<dd font="normal"><la>eine Risikobeurteilung für das Kraftfahrzeug vorzunehmen und gegenüber dem Kraftfahrt-Bundesamt und der zuständigen Behörde nachzuweisen, wie die Risikobeurteilung durchgeführt wurde und dass kritische Elemente des Kraftfahrzeugs gegen Gefahren, die im Rahmen der Risikobeurteilung festgestellt wurden, geschützt werden,</la></dd>
+						<dt>3.</dt>
+						<dd font="normal"><la>eine für das autonome Fahren ausreichend sichere Funkverbindung nachzuweisen,</la></dd>
+						<dt>4.</dt>
+						<dd font="normal"><la>für jedes Kraftfahrzeug eine Systembeschreibung vorzunehmen, ein Betriebshandbuch zu erstellen und gegenüber dem Kraftfahrt-Bundesamt und im Betriebshandbuch verbindlich zu erklären, dass das Kraftfahrzeug die Voraussetzungen nach § 1e Absatz 2, auch in Verbindung mit Absatz 3, erfüllt,</la></dd>
+						<dt>5.</dt>
+						<dd font="normal"><la>für das Kraftfahrzeug eine Schulung für die am Betrieb beteiligten Personen anzubieten, in der die technische Funktionsweise insbesondere im Hinblick auf die Fahrfunktionen und die Aufgabenwahrnehmung der Technischen Aufsicht vermittelt werden, und</la></dd>
+						<dt>6.</dt>
+						<dd font="normal"><la>sobald er Manipulationen am Kraftfahrzeug oder an dessen elektronischer oder elektrischer Architektur oder an der mit dem Kraftfahrzeug in Verbindung stehenden elektronischen oder elektrischen Architektur erkennt, insbesondere bei einem unerlaubten Zugriff auf die Funkverbindungen des Kraftfahrzeugs, diese unverzüglich dem Kraftfahrt-Bundesamt und der nach Bundes- oder Landesrecht zuständigen Behörde oder auf Bundesfernstraßen, soweit dem Bund die Verwaltung zusteht, der Gesellschaft privaten Rechts im Sinne des Infrastrukturgesellschaftserrichtungsgesetzes mitzuteilen und erforderliche Maßnahmen einzuleiten.</la></dd>
+					</dl>
+				</p>
+			</content>
+		</text>
+		<fussnoten>
+			</fussnoten>
+	</textdaten>
+</norm>

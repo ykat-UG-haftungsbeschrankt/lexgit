@@ -1,0 +1,50 @@
+<norm builddate="20260930215509" doknr="BJNR004370909BJNE013102123">
+	<metadaten>
+		<jurabk>StVG</jurabk>
+		<enbez>§ 63f</enbez>
+		<titel format="XML">Verkehrsunfallforschung, Verordnungsermächtigung</titel>
+	</metadaten>
+	<textdaten>
+		<text format="XML">
+			<content>
+				<p>(1) Die Bundesanstalt für Straßen- und Verkehrswesen darf zum Zweck der Verkehrsunfallforschung die folgenden personenbezogenen Daten der Unfallbeteiligten, der Mitfahrer zum Unfallzeitpunkt und der sonstigen Verletzten nach Maßgabe der Absätze 2 und 3 sowie nach näherer Bestimmung durch Rechtsverordnung nach Absatz 4 Nummer 2 erheben, übermitteln, speichern und verwenden:
+					<dl type="arabic">
+						<dt>1.</dt>
+						<dd font="normal"><la>Vornamen, Name, Anschrift, Telefonnummern, Geburtsdatum, Erreichbarkeit in einer medizinischen Versorgungseinrichtung,</la></dd>
+						<dt>2.</dt>
+						<dd font="normal"><la>Geschlecht, Familienstand, Nationalität,</la></dd>
+						<dt>3.</dt>
+						<dd font="normal"><la>folgende Gesundheitsdaten der Verletzten, soweit sie unfallrelevant sind: Körpergröße, Körpergewicht, Statur und Medikation zum Unfallzeitpunkt, Vorerkrankungen, Art und Schwere der erlittenen Einzelverletzungen und deren Folgen, Art und Durchführung der Behandlung,</la></dd>
+						<dt>4.</dt>
+						<dd font="normal"><la>Einfluss von Medikamenten, Alkohol und anderen berauschenden Mitteln auf Unfallbeteiligte zum Unfallzeitpunkt,</la></dd>
+						<dt>5.</dt>
+						<dd font="normal"><la>Art der Verkehrsbeteiligung, Position im oder auf dem Fahrzeug, Bekleidung, Körpergröße, Körpergewicht und Statur zum Unfallzeitpunkt,</la></dd>
+						<dt>6.</dt>
+						<dd font="normal"><la>amtliches Kennzeichen und Fahrzeugidentifikationsnummer der beteiligten Fahrzeuge,</la></dd>
+						<dt>7.</dt>
+						<dd font="normal"><la>polizeiliche Verkehrsunfallanzeigen, Unfallgutachten von Sachverständigen.</la></dd>
+					</dl>
+				</p>
+				<p>(2) Eine Erhebung, Übermittlung, Speicherung und Verwendung personenbezogener Straßenverkehrs- und Unfalldaten nach Absatz 1 ist nur zulässig,
+					<dl type="arabic">
+						<dt>1.</dt>
+						<dd font="normal"><la>soweit dies zur Erfüllung des in Absatz 1 genannten Zwecks erforderlich ist und</la></dd>
+						<dt>2.</dt>
+						<dd font="normal"><la>soweit eine Einwilligung der betroffenen Person gemäß Artikel 4 Nummer 11 der Verordnung (EU) 2016/679 vorliegt.</la></dd>
+					</dl>
+				Die Bundesanstalt für Straßen- und Verkehrswesen darf die personenbezogenen Daten nach Absatz 1 Nummer 1 der jeweils betroffenen Person und die amtlichen Kennzeichen der beteiligten Fahrzeuge zunächst ohne Einwilligung bei der Stelle, die den Unfall aufgenommen hat, erheben sowie die erhobenen Daten speichern und verwenden, um die Einwilligung nach Satz 1 Nummer 2 einzuholen. Wird die Einwilligung nicht innerhalb von drei Monaten erteilt oder wird die Einwilligung verweigert, so hat die Bundesanstalt für Straßen- und Verkehrswesen die personenbezogenen Daten der betroffenen Person unverzüglich zu löschen.</p>
+				<p>(3) Die personenbezogenen Daten nach Absatz 1 dürfen von der Bundesanstalt für Straßen- und Verkehrswesen ausschließlich für den in Absatz 1 genannten Zweck verarbeitet werden und nur zum Zweck der Erhebung weiterer Daten nach Absatz 1 übermittelt werden. Sie sind unverzüglich nach Erreichen des Erhebungsumfangs in der Unfallakte oder nach sonstiger Beendigung der Erhebung zu anonymisieren. Eine Verarbeitung der personenbezogenen Daten durch Dritte zu anderen Zwecken oder eine Beschlagnahme dieser Daten bei der Bundesanstalt für Straßen- und Verkehrswesen nach anderen Rechtsvorschriften ist unzulässig.</p>
+				<p>(4) Das Bundesministerium für Digitales und Verkehr wird ermächtigt, Rechtsverordnungen zu erlassen über die Verarbeitung von Straßenverkehrs- und Unfalldaten durch die Bundesanstalt für Straßen- und Verkehrswesen zum Zweck der Verkehrsunfallforschung, insbesondere über
+					<dl type="arabic">
+						<dt>1.</dt>
+						<dd font="normal"><la>die Art und den Umfang der zu verarbeitenden nichtpersonenbezogenen Daten und</la></dd>
+						<dt>2.</dt>
+						<dd font="normal"><la>die näheren technischen Bestimmungen der Art und Weise der Erhebung und der sonstigen Verarbeitung der personenbezogenen Daten nach Absatz 1.</la></dd>
+					</dl>
+				</p>
+			</content>
+		</text>
+		<fussnoten>
+			</fussnoten>
+	</textdaten>
+</norm>

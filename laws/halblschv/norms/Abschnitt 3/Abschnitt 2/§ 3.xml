@@ -1,0 +1,68 @@
+<norm builddate="20260506175243" doknr="BJNR089400004BJNE000503360">
+	<metadaten>
+		<jurabk>HalblSchV</jurabk>
+		<enbez>§ 3</enbez>
+		<titel format="XML">Anmeldung der Topografie</titel>
+	</metadaten>
+	<textdaten>
+		<text format="XML">
+			<content>
+				<p>(1) Die Anmeldung muss zur Wahrung des Anmeldetages enthalten:
+					<dl font="normal" type="arabic">
+						<dt>1.</dt>
+						<dd font="normal"><la size="normal">die Erklärung, dass die Eintragung des Schutzes der Topografie beantragt wird;</la></dd>
+						<dt>2.</dt>
+						<dd font="normal"><la size="normal">eine kurze und genaue Bezeichnung der Topografie. Als Bezeichnung kann der Name oder die Produktbezeichnung der Topografie unter Angabe des Produktbereichs angegeben werden;</la></dd>
+						<dt>3.</dt>
+						<dd font="normal"><la size="normal">das Datum des Tages der ersten nicht nur vertraulichen geschäftlichen Verwertung der Topografie, wenn dieser Tag vor der Anmeldung liegt (§ 3 Abs. 2 Nr. 3 des Halbleiterschutzgesetzes);</la></dd>
+						<dt>4.</dt>
+						<dd font="normal"><la size="normal">Angaben über den Verwendungszweck, falls in Betracht kommt, dass die Topografie ein Staatsgeheimnis (§ 93 des Strafgesetzbuches) ist (§ 3 Abs. 2 Nr. 2 des Halbleiterschutzgesetzes);</la></dd>
+						<dt>5.</dt>
+						<dd font="normal">
+							<la size="normal">folgende Angaben zum Anmelder:
+								<dl font="normal" type="alpha">
+									<dt>a)</dt>
+									<dd font="normal"><la size="normal">wenn der Anmelder eine natürliche Person ist: Vornamen und Namen oder, falls die Eintragung unter der Firma des Anmelders erfolgen soll, die Firma, wie sie im Handelsregister eingetragen ist, sowie die Anschrift des Wohn- oder Firmensitzes mit Angabe von Straße, Hausnummer, Postleitzahl und Ort,</la></dd>
+									<dt>b)</dt>
+									<dd font="normal">
+										<la size="normal">wenn der Anmelder eine juristische Person oder eine Personengesellschaft ist:
+											<dl font="normal" type="a-alpha">
+												<dt>aa)</dt>
+												<dd font="normal"><la size="normal">Name oder Firma, Rechtsform sowie Anschrift mit Angabe von Straße, Hausnummer, Postleitzahl und Ort des Sitzes; die Bezeichnung der Rechtsform kann auf übliche Weise abgekürzt werden; wenn die juristische Person oder Personengesellschaft in einem Register eingetragen ist, müssen die Angaben dem Registereintrag entsprechen;</la></dd>
+												<dt>bb)</dt>
+												<dd font="normal"><la size="normal">bei einer Gesellschaft bürgerlichen Rechts, die nicht im Gesellschaftsregister eingetragen ist, zusätzlich Name und Anschrift mit Angabe von Straße, Hausnummer, Postleitzahl und Ort mindestens eines vertretungsberechtigten Gesellschafters;</la></dd>
+											</dl>
+										</la>
+									</dd>
+								</dl>
+							</la>
+						</dd>
+						<dt>6.</dt>
+						<dd font="normal"><la size="normal">gegebenenfalls die Angabe eines Vertreters;</la></dd>
+						<dt>7.</dt>
+						<dd font="normal"><la size="normal">die Unterschrift aller Anmelder oder deren Vertreter.</la></dd>
+					</dl>
+				</p>
+				<p>(2) Wenn der Anmelder seinen Wohnsitz oder Sitz im Ausland hat, so ist bei der Angabe der Anschrift nach Absatz 1 Nummer 5 außer dem Ort auch der Staat anzugeben. Weitere Angaben zum Bezirk, zur Provinz oder zum Bundesstaat, in dem der Anmelder seinen Wohnsitz oder Sitz hat oder dessen Rechtsordnung er unterliegt, sind freiwillig.</p>
+				<p>(3) Hat das Deutsche Patent- und Markenamt dem Anmelder eine Kennnummer zugeteilt, so soll diese in der Anmeldung genannt werden. In der Anmeldung können zusätzlich eine von der Anschrift des Anmelders abweichende Postanschrift, eine Postfachanschrift sowie Telefonnummern, Telefaxnummern und E-Mail-Adressen angegeben werden.</p>
+				<p>(4) Wird die Anmeldung von mehreren Personen oder Personengesellschaften eingereicht, so gelten Absatz 1 Nummer 5 und die Absätze 2 und 3 für alle anmeldenden Personen oder Personengesellschaften.</p>
+				<p>(5) Ist ein Vertreter bestellt, so gelten hinsichtlich der Angaben zum Vertreter Absatz 1 Nummer 5 und die Absätze 2 und 3 Satz 2 entsprechend. Hat das Deutsche Patent- und Markenamt dem Vertreter eine Kennnummer oder die Nummer einer allgemeinen Vollmacht zugeteilt, so soll diese zusätzlich angegeben werden.</p>
+				<p>(6) Der Eintragungsantrag muss ferner enthalten (§ 3 Abs. 2 Nr. 4 des Halbleiterschutzgesetzes):
+					<dl font="normal" type="arabic">
+						<dt>1.</dt>
+						<dd font="normal"><la size="normal">bei natürlichen Personen die Staatsangehörigkeit des Anmelders oder, soweit er nicht Staatsangehöriger eines Mitgliedstaats der Europäischen Wirtschaftsgemeinschaft ist, den gewöhnlichen Aufenthalt des Anmelders;</la></dd>
+						<dt>2.</dt>
+						<dd font="normal"><la size="normal">bei Firmen den Ort der Niederlassung;</la></dd>
+						<dt>3.</dt>
+						<dd font="normal"><la size="normal">falls der Anmelder Inhaber eines ausschließlichen Rechts zur geschäftlichen Verwertung der Topografie in der Europäischen Wirtschaftsgemeinschaft ist, das Datum des Tages der ersten nicht nur vertraulichen geschäftlichen Verwertung der Topografie in der Europäischen Wirtschaftsgemeinschaft, wenn dieser Tag vor der Anmeldung liegt (§ 2 Abs. 4 des Halbleiterschutzgesetzes);</la></dd>
+						<dt>4.</dt>
+						<dd font="normal"><la size="normal">falls ein Rechtsübergang erfolgt ist (§ 2 Abs. 5 des Halbleiterschutzgesetzes), entsprechende Angaben.</la></dd>
+					</dl>
+				</p>
+				<p>(7) Falls der Anmelder Teile der Unterlagen als Betriebs- oder Geschäftsgeheimnisse kennzeichnen will, kann der Eintragungsantrag entsprechende Angaben enthalten (§ 4 Abs. 3 des Halbleiterschutzgesetzes).</p>
+			</content>
+		</text>
+		<fussnoten>
+			</fussnoten>
+	</textdaten>
+</norm>

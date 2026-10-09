@@ -1,0 +1,33 @@
+<norm builddate="20260930215509" doknr="BJNR004370909BJNE009305126">
+	<metadaten>
+		<jurabk>StVG</jurabk>
+		<enbez>§ 61</enbez>
+		<titel format="XML">Löschung der Daten</titel>
+	</metadaten>
+	<textdaten>
+		<text format="XML">
+			<content>
+				<p>(1) Die auf Grund des § 50 im Zentralen Fahrerlaubnisregister gespeicherten Daten sind zu löschen, soweit
+					<dl font="normal" type="arabic">
+						<dt>1.</dt>
+						<dd font="normal"><la size="normal">die zugrunde liegende Fahrerlaubnis vollständig oder hinsichtlich einzelner Fahrerlaubnisklassen erloschen ist oder</la></dd>
+						<dt>2.</dt>
+						<dd font="normal"><la size="normal">eine amtliche Mitteilung über den Tod der betroffenen Person eingeht.</la></dd>
+					</dl>
+				Die Angaben zur Probezeit werden ein Jahr nach deren Ablauf gelöscht. Satz 1 Nummer 1 gilt nicht für die nach § 50 Absatz 1 Nummer 1 gespeicherten Daten, eine erloschene Fahrerlaubnis oder Fahrerlaubnisklasse, das Datum der jeweiligen Erteilung, das Datum des jeweiligen Erlöschens, den Grund des Erlöschens einer Fahrerlaubnis oder einer Fahrerlaubnisklasse, den Beginn und das Ende der Probezeit, die Dauer der Probezeit einschließlich der Restdauer nach einer vorzeitigen Beendigung, den Beginn und das Ende der Hemmung der Probezeit, die Beschränkungen und Auflagen zur Fahrerlaubnis oder Fahrerlaubnisklasse, die Fahrerlaubnisnummer und die Behörde, die die Fahrerlaubnisakte führt.</p>
+				<p>(2) Über die in Absatz 1 Satz 1 Nummer 1 genannten Daten darf nach dem Erlöschen der Fahrerlaubnis nur
+					<dl font="normal" type="arabic">
+						<dt>1.</dt>
+						<dd font="normal"><la size="normal">den betroffenen Personen und</la></dd>
+						<dt>2.</dt>
+						<dd font="normal"><la size="normal">den Fahrerlaubnisbehörden zur Überprüfung im Verfahren zur Neuerteilung oder Erweiterung einer Fahrerlaubnis</la></dd>
+					</dl>
+				Auskunft erteilt werden.</p>
+				<p>(3) Soweit die örtlichen Fahrerlaubnisregister Entscheidungen enthalten, die auch im Fahreignungsregister einzutragen sind, gilt für die Löschung § 29 entsprechend. Für die Löschung der übrigen Daten gilt Absatz 1.</p>
+				<p>(4) Unbeschadet der Absätze 1 bis 3 sind die im Zentralen Fahrerlaubnisregister und den örtlichen Fahrerlaubnisregistern gespeicherten Daten mit Vollendung des 110. Lebensjahres der betroffenen Person zu löschen.</p>
+			</content>
+		</text>
+		<fussnoten>
+			</fussnoten>
+	</textdaten>
+</norm>

@@ -1,0 +1,25 @@
+{
+  "compilerOptions": {
+    "target": "ES2023",
+    "lib": ["ES2023"],
+    "module": "ESNext",
+    "skipLibCheck": true,
+    "moduleResolution": "Bundler",
+    "allowImportingTsExtensions": true,
+    "verbatimModuleSyntax": true,
+    "moduleDetection": "force",
+    "noEmit": true,
+    "strict": true,
+    "noUncheckedIndexedAccess": true,
+    "exactOptionalPropertyTypes": true
+  },
+  "include": [
+    "src/types.d.ts",
+    "vite.config.ts",
+    "src/law/parser.ts",
+    "src/law/git.ts",
+    "src/law/manage.ts",
+    "src/server/**/*.ts",
+    "src/electron/**/*.ts"
+  ]
+}

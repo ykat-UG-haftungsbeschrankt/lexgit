@@ -1,0 +1,34 @@
+<norm builddate="20260930215509" doknr="BJNR004370909BJNE007707123">
+	<metadaten>
+		<jurabk>StVG</jurabk>
+		<enbez>§ 37a</enbez>
+		<titel format="XML">Abruf im automatisierten Verfahren durch Stellen außerhalb des Geltungsbereiches dieses Gesetzes</titel>
+	</metadaten>
+	<textdaten>
+		<text format="XML">
+			<content>
+				<p>(1) Durch Abruf im automatisierten Verfahren dürfen aus dem Zentralen Fahrzeugregister für die in § 37 Abs. 1 und 1a genannten Maßnahmen an die hierfür zuständigen öffentlichen Stellen in einem Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum oder an Europol die zu deren Aufgabenerfüllung erforderlichen Daten nach näherer Bestimmung durch Rechtsverordnung nach § 47 Nummer 5b und 5c durch das Kraftfahrt-Bundesamt übermittelt werden. Dieses automatisierte Verfahren setzt jedoch voraus, dass das Europäische Fahrzeug- und Führerschein-Informationssystem oder ein anderes informationstechnisches Verfahren genutzt wird, das vom Kraftfahrt-Bundesamt als mit vertretbarem Aufwand betreibbar beurteilt wird</p>
+				<p>(2) Der Abruf darf nur unter Verwendung von Fahrzeugdaten, bei Abrufen für die in § 37 Abs. 1a genannten Zwecke nur unter Verwendung der vollständigen Fahrzeug-Identifizierungsnummer oder des vollständigen Kennzeichens, erfolgen und sich nur auf ein bestimmtes Fahrzeug oder einen bestimmten Halter richten. Ein unionsrechtlich vorgeschriebener Abruf darf ergänzend zu Satz 1
+					<dl type="arabic">
+						<dt>1.</dt>
+						<dd font="normal"><la>auch unter Verwendung von Halterdaten erfolgen oder</la></dd>
+						<dt>2.</dt>
+						<dd font="normal"><la>sich auf mehrere Fahrzeuge eines bestimmten Halters oder auf alle aktuellen oder früheren Halter eines bestimmten Fahrzeugs richten,</la></dd>
+					</dl>
+				soweit dies unionsrechtlich vorgesehen ist.</p>
+				<p>(3) Ist ein Abruf nicht nach unionsrechtlichen Vorschriften vorgeschrieben, so ist der Abruf nur zulässig, wenn
+					<dl font="normal" type="arabic">
+						<dt>1.</dt>
+						<dd font="normal"><la size="normal">diese Form der Datenübermittlung unter Berücksichtigung der schutzwürdigen Interessen der betroffenen Personen wegen der Vielzahl der Übermittlungen oder wegen ihrer besonderen Eilbedürftigkeit angemessen ist,</la></dd>
+						<dt>2.</dt>
+						<dd font="normal"><la size="normal">der Empfängerstaat die Verordnung (EU) 2016/679 anwendet und</la></dd>
+						<dt>3.</dt>
+						<dd font="normal"><la>die Gegenseitigkeit der Auskunftserteilung im Sinne von § 37 Absatz 1 durch geeignete Mittel sichergestellt ist.</la></dd>
+					</dl>
+				Vorbehaltlich unionsrechtlicher Vorgaben ist § 36 Absatz 5 und 6 sowie Absatz 7 wegen des Anlasses der Abrufe entsprechend anzuwenden.</p>
+			</content>
+		</text>
+		<fussnoten>
+			</fussnoten>
+	</textdaten>
+</norm>

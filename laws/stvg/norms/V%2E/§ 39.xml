@@ -1,0 +1,71 @@
+<norm builddate="20260930215509" doknr="BJNR004370909BJNE006309123">
+	<metadaten>
+		<jurabk>StVG</jurabk>
+		<enbez>§ 39</enbez>
+		<titel format="XML">Übermittlung von Fahrzeugdaten und Halterdaten zur Verfolgung von Rechtsansprüchen</titel>
+	</metadaten>
+	<textdaten>
+		<text format="XML">
+			<content>
+				<p>(1) Von den nach § 33 Abs. 1 gespeicherten Fahrzeugdaten und Halterdaten sind
+					<dl font="normal" type="arabic">
+						<dt>1.</dt>
+						<dd font="normal"><la size="normal">Familienname (bei juristischen Personen, Behörden oder Vereinigungen: Name oder Bezeichnung),</la></dd>
+						<dt>2.</dt>
+						<dd font="normal"><la size="normal">Vornamen,</la></dd>
+						<dt>3.</dt>
+						<dd font="normal"><la size="normal">Ordens- und Künstlername,</la></dd>
+						<dt>4.</dt>
+						<dd font="normal"><la size="normal">Anschrift,</la></dd>
+						<dt>5.</dt>
+						<dd font="normal"><la size="normal">Art, Hersteller und Typ des Fahrzeugs,</la></dd>
+						<dt>6.</dt>
+						<dd font="normal"><la size="normal">Name und Anschrift des Versicherers,</la></dd>
+						<dt>7.</dt>
+						<dd font="normal"><la size="normal">Nummer des Versicherungsscheins, oder, falls diese noch nicht gespeichert ist, Nummer der Versicherungsbestätigung,</la></dd>
+						<dt>8.</dt>
+						<dd font="normal"><la size="normal">gegebenenfalls Zeitpunkt der Beendigung des Versicherungsverhältnisses,</la></dd>
+						<dt>9.</dt>
+						<dd font="normal"><la size="normal">gegebenenfalls Befreiung von der gesetzlichen Versicherungspflicht,</la></dd>
+						<dt>10.</dt>
+						<dd font="normal"><la size="normal">Zeitpunkt der Zuteilung oder Ausgabe des Kennzeichens für den Halter sowie</la></dd>
+						<dt>11.</dt>
+						<dd font="normal"><la size="normal">Kraftfahrzeugkennzeichen</la></dd>
+					</dl>
+				durch die Zulassungsbehörde oder durch das Kraftfahrt-Bundesamt zu übermitteln, wenn der Empfänger unter Angabe des betreffenden Kennzeichens oder der betreffenden Fahrzeug-Identifizierungsnummer darlegt, dass er die Daten zur Geltendmachung, Sicherung oder Vollstreckung oder zur Befriedigung oder Abwehr von Rechtsansprüchen im Zusammenhang mit der Teilnahme am Straßenverkehr oder zur Erhebung einer Privatklage wegen im Straßenverkehr begangener Verstöße benötigt (einfache Registerauskunft).</p>
+				<p>(2) Weitere Fahrzeugdaten und Halterdaten als die nach Absatz 1 zulässigen sind zu übermitteln, wenn der Empfänger unter Angabe von Fahrzeugdaten oder Personalien des Halters glaubhaft macht, dass er
+					<dl font="normal" type="arabic">
+						<dt>1.</dt>
+						<dd font="normal"><la size="normal">die Daten zur Geltendmachung, Sicherung oder Vollstreckung, zur Befriedigung oder Abwehr von Rechtsansprüchen im Zusammenhang mit der Teilnahme am Straßenverkehr, dem Diebstahl, dem sonstigen Abhandenkommen des Fahrzeugs oder zur Erhebung einer Privatklage wegen im Straßenverkehr begangener Verstöße benötigt und</la></dd>
+						<dt>2.</dt>
+						<dd font="normal"><la size="normal">(weggefallen)</la></dd>
+						<dt>3.</dt>
+						<dd font="normal"><la size="normal">die Daten auf andere Weise entweder nicht oder nur mit unverhältnismäßigem Aufwand erlangen könnte.</la></dd>
+					</dl>
+				</p>
+				<p>(3) Die in Absatz 1 Nr. 1 bis 5 und 11 angeführten Halterdaten und Fahrzeugdaten dürfen übermittelt werden, wenn der Empfänger unter Angabe von Fahrzeugdaten oder Personalien des Halters glaubhaft macht, dass er
+					<dl font="normal" type="arabic">
+						<dt>1.</dt>
+						<dd font="normal">
+							<la size="normal">die Daten zur Geltendmachung, Sicherung oder Vollstreckung
+								<dl font="normal" type="arabic">
+									<dt>a)</dt>
+									<dd font="normal"><la size="normal">von nicht mit der Teilnahme am Straßenverkehr im Zusammenhang stehenden öffentlich-rechtlichen Ansprüchen oder</la></dd>
+									<dt>b)</dt>
+									<dd font="normal"><la size="normal">von gemäß § 7 des Unterhaltsvorschussgesetzes, § 33 des Zweiten Buches Sozialgesetzbuch oder § 94 des Zwölften Buches Sozialgesetzbuch übergegangenen Ansprüchen</la></dd>
+								</dl>
+							</la>
+						<la size="normal">in Höhe von jeweils mindestens 500 Euro benötigt,</la></dd>
+						<dt>2.</dt>
+						<dd font="normal"><la size="normal">ohne Kenntnis der Daten zur Geltendmachung, Sicherung oder Vollstreckung des Rechtsanspruchs nicht in der Lage wäre und</la></dd>
+						<dt>3.</dt>
+						<dd font="normal"><la size="normal">die Daten auf andere Weise entweder nicht oder nur mit unverhältnismäßigem Aufwand erlangen könnte.</la></dd>
+					</dl>
+				§ 35 Abs. 3 Satz 2 und 3 gilt entsprechend. Die Aufzeichnungen dürfen nur zur Kontrolle der Zulässigkeit der Übermittlungen verwendet werden.</p>
+				<p>(4) Ist der Empfänger eine öffentlich-rechtliche Stelle mit Sitz im Ausland oder handelt er im Namen oder im Auftrag einer solchen Stelle, ist für den Antrag und die Auskunft nur das Kraftfahrt-Bundesamt zuständig.</p>
+			</content>
+		</text>
+		<fussnoten>
+			</fussnoten>
+	</textdaten>
+</norm>

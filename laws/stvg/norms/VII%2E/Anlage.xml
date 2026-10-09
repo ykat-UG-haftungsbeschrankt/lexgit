@@ -1,0 +1,16 @@
+<norm builddate="20260930215509" doknr="BJNR004370909BJNE009803123">
+	<metadaten>
+		<jurabk>StVG</jurabk>
+		<enbez>Anlage</enbez>
+		<titel format="XML">(zu § 24a)</titel>
+	</metadaten>
+	<textdaten>
+		<text format="XML">
+			<content>
+				<p><kommentar typ="Fundstelle">(Fundstelle: BGBl. I 2007, 1045)</kommentar><br></br><br></br><table frame="top" pgwide="1" tabstyle="Liste" tocentry="%yes;"><title align="auto">Liste der berauschenden Mittel und Substanzen<br></br><br></br></title><tgroup align="left" char="" charoff="50" cols="2" colsep="0" rowsep="0"><colspec colname="col1" colnum="1" colwidth="1.00*"></colspec><colspec colname="col2" colnum="2" colwidth="1.22*"></colspec><thead valign="bottom"><row rowsep="1"><entry align="left" colname="col1" colsep="0" rowsep="1" valign="top" vj="1">Berauschende Mittel</entry><entry align="left" colname="col2" colsep="0" rowsep="1" valign="top" vj="1">Substanzen</entry></row></thead><tbody valign="top"><row><entry align="left" colname="col1" colsep="0" valign="top" vj="1">Heroin</entry><entry align="left" colname="col2" colsep="0" valign="top" vj="1">Morphin</entry></row><row><entry align="left" colname="col1" colsep="0" valign="top" vj="1">Morphin</entry><entry align="left" colname="col2" colsep="0" valign="top" vj="1">Morphin</entry></row><row><entry align="left" colname="col1" colsep="0" valign="top" vj="1">Cocain</entry><entry align="left" colname="col2" colsep="0" valign="top" vj="1">Cocain</entry></row><row><entry align="left" colname="col1" colsep="0" valign="top" vj="1">Cocain</entry><entry align="left" colname="col2" colsep="0" valign="top" vj="1">Benzoylecgonin</entry></row><row><entry align="left" colname="col1" colsep="0" valign="top" vj="1">Amfetamin</entry><entry align="left" colname="col2" colsep="0" valign="top" vj="1">Amfetamin</entry></row><row><entry align="left" colname="col1" colsep="0" valign="top" vj="1">Designer-Amfetamin</entry><entry align="left" colname="col2" colsep="0" valign="top" vj="1">Methylendioxyamfetamin (MDA)</entry></row><row><entry align="left" colname="col1" colsep="0" valign="top" vj="1">Designer-Amfetamin</entry><entry align="left" colname="col2" colsep="0" valign="top" vj="1">Methylendioxyethylamfetamin (MDE)</entry></row><row><entry align="left" colname="col1" colsep="0" valign="top" vj="1">Designer-Amfetamin</entry><entry align="left" colname="col2" colsep="0" valign="top" vj="1">Methylendioxymetamfetamin (MDMA)</entry></row><row><entry align="left" colname="col1" colsep="0" valign="top" vj="1">Metamfetamin</entry><entry align="left" colname="col2" colsep="0" valign="top" vj="1">Metamfetamin</entry></row></tbody></tgroup></table></p>
+			</content>
+		</text>
+		<fussnoten>
+			</fussnoten>
+	</textdaten>
+</norm>

@@ -1,0 +1,25 @@
+<norm builddate="20260930215509" doknr="BJNR004370909BJNE011903123">
+	<metadaten>
+		<jurabk>StVG</jurabk>
+		<enbez>§ 63b</enbez>
+		<titel format="XML">Verordnungsermächtigungen</titel>
+	</metadaten>
+	<textdaten>
+		<text format="XML">
+			<content>
+				<p>Das Bundesministerium für Verkehr wird ermächtigt, im Benehmen mit der Beauftragten für den Datenschutz und die Informationsfreiheit, zur Durchführung von § 63a Rechtsverordnungen zu erlassen über
+					<dl font="normal" type="arabic">
+						<dt>1.</dt>
+						<dd font="normal"><la size="normal">die technische Ausgestaltung und den Ort des Speichermediums sowie die Art und Weise der Speicherung gemäß § 63a Absatz 1,</la></dd>
+						<dt>2.</dt>
+						<dd font="normal"><la size="normal">den Adressaten der Speicherpflicht nach § 63a Absatz 1,</la></dd>
+						<dt>3.</dt>
+						<dd font="normal"><la size="normal">Maßnahmen zur Sicherung der gespeicherten Daten gegen unbefugten Zugriff bei Verkauf des Kraftfahrzeugs.</la></dd>
+					</dl>
+				Rechtsverordnungen nach Satz 1 sind vor Verkündung dem Deutschen Bundestag zur Kenntnis zuzuleiten.</p>
+			</content>
+		</text>
+		<fussnoten>
+			</fussnoten>
+	</textdaten>
+</norm>

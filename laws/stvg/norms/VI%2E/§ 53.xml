@@ -1,0 +1,35 @@
+<norm builddate="20260930215509" doknr="BJNR004370909BJNE008505126">
+	<metadaten>
+		<jurabk>StVG</jurabk>
+		<enbez>§ 53</enbez>
+		<titel format="XML">Direkteinstellung und Abruf im automatisierten Verfahren</titel>
+	</metadaten>
+	<textdaten>
+		<text format="XML">
+			<content>
+				<p>(1) Den Stellen, denen die Aufgaben nach § 52 obliegen, dürfen die hierfür jeweils erforderlichen Daten aus dem Zentralen Fahrerlaubnisregister und den örtlichen Fahrerlaubnisregistern zu den in § 49 genannten Zwecken durch Abruf im automatisierten Verfahren übermittelt werden.</p>
+				<p>(1a) Die Fahrerlaubnisbehörden dürfen die Daten, die sie nach § 51 dem Kraftfahrt-Bundesamt mitzuteilen haben, im Wege der Datenfernübertragung durch Direkteinstellung übermitteln.</p>
+				<p>(2) Die Einrichtung von Anlagen zur Direkteinstellung oder zum Abruf im automatisierten Verfahren ist nur zulässig, wenn nach näherer Bestimmung durch Rechtsverordnung gemäß § 63 Nummer 4 gewährleistet ist, dass
+					<dl font="normal" type="arabic">
+						<dt>1.</dt>
+						<dd font="normal"><la size="normal">die erforderlichen technischen und organisatorischen Maßnahmen nach den Artikeln 24, 25 und 32 der Verordnung (EU) 2016/679 zur Sicherstellung des Datenschutzes und der Datensicherheit getroffen werden und</la></dd>
+						<dt>2.</dt>
+						<dd font="normal"><la size="normal">die Zulässigkeit der Direkteinstellung oder der Abrufe nach Maßgabe des Absatzes 3 kontrolliert werden kann.</la></dd>
+					</dl>
+				</p>
+				<p>(3) Das Kraftfahrt-Bundesamt oder die Fahrerlaubnisbehörde als übermittelnde Stellen haben über die Direkteinstellungen und die Abrufe Aufzeichnungen zu fertigen, die die bei der Durchführung der Direkteinstellungen oder der Abrufe verwendeten Daten, den Tag und die Uhrzeit der Direkteinstellungen oder der Abrufe, die Kennung der einstellenden oder abrufenden Dienststelle und die eingestellten oder abgerufenen Daten enthalten müssen. Die protokollierten Daten dürfen nur für Zwecke der Datenschutzkontrolle, der Datensicherung oder zur Sicherstellung eines ordnungsgemäßen Betriebs der Datenverarbeitungsanlage verwendet werden, es sei denn, es liegen Anhaltspunkte dafür vor, dass ohne ihre Verwendung die Verhinderung oder Verfolgung einer schwerwiegenden Straftat gegen Leib, Leben oder Freiheit einer Person aussichtslos oder wesentlich erschwert wäre. Die Protokolldaten sind durch geeignete Vorkehrungen gegen zweckfremde Verwendung und gegen sonstigen Missbrauch zu schützen und beim Abruf nach sechs Monaten und bei der Direkteinstellung mit Vollendung des 110. Lebensjahres der betroffenen Person zu löschen.</p>
+				<p>(4) Bei Direkteinstellungen in das und bei Abrufen aus dem Zentralen Fahrerlaubnisregister sind vom Kraftfahrt-Bundesamt weitere Aufzeichnungen zu fertigen, die sich auf den Anlass der Direkteinstellung oder des Abrufs erstrecken und die Feststellung der für die Direkteinstellung oder den Abruf verantwortlichen Person ermöglichen. Das Nähere wird durch Rechtsverordnung (§ 63 Nummer 4) bestimmt. Dies gilt entsprechend für Abrufe aus den örtlichen Fahrerlaubnisregistern.</p>
+				<p>(5) Aus den örtlichen Fahrerlaubnisregistern ist die Übermittlung der Daten durch Einsichtnahme in das Register außerhalb der üblichen Dienstzeiten an die für den betreffenden Bezirk zuständige Polizeidienststelle zulässig, wenn
+					<dl font="normal" type="arabic">
+						<dt>1.</dt>
+						<dd font="normal"><la size="normal">dies im Rahmen der in § 49 Abs. 1 und 2 Nr. 2 genannten Zwecke für die Erfüllung der Polizei obliegenden Aufgaben erforderlich ist und</la></dd>
+						<dt>2.</dt>
+						<dd font="normal"><la size="normal">ohne die sofortige Einsichtnahme die Erfüllung dieser Aufgaben gefährdet wäre.</la></dd>
+					</dl>
+				Die Polizeidienststelle hat die Tatsache der Einsichtnahme, deren Datum und Anlass sowie den Namen des Einsichtnehmenden aufzuzeichnen; die Aufzeichnungen sind für die Dauer eines Jahres aufzubewahren und nach Ablauf des betreffenden Kalenderjahres zu vernichten.</p>
+			</content>
+		</text>
+		<fussnoten>
+			</fussnoten>
+	</textdaten>
+</norm>

@@ -1,0 +1,61 @@
+{
+	"slug": "halblschv",
+	"documentNumber": "BJNR089400004",
+	"buildDate": "20260506175243",
+	"indexPath": "https://www.gesetze-im-internet.de/",
+	"normDocumentNumbers": [
+		"BJNR089400004BJNE000100000",
+		"BJNR089400004BJNE000201360",
+		"BJNR089400004BJNG000300000",
+		"BJNR089400004BJNG000200000",
+		"BJNR089400004BJNE000401360",
+		"BJNR089400004BJNG000100000",
+		"BJNR089400004BJNE000300000",
+		"BJNR089400004BJNE000503360",
+		"BJNR089400004BJNE000600000",
+		"BJNR089400004BJNE000700000",
+		"BJNR089400004BJNE000801360",
+		"BJNR089400004BJNE000900000",
+		"BJNR089400004BJNE001000000",
+		"BJNR089400004BJNE001100000"
+	],
+	"normPaths": {
+		"BJNR089400004BJNE000100000": "Eingangsformel.xml",
+		"BJNR089400004BJNE000201360": "Inhaltsübersicht.xml",
+		"BJNR089400004BJNG000300000": "Abschnitt 3/index.xml",
+		"BJNR089400004BJNG000200000": "Abschnitt 3/Abschnitt 2/index.xml",
+		"BJNR089400004BJNE000401360": "Abschnitt 3/Abschnitt 2/§ 2.xml",
+		"BJNR089400004BJNG000100000": "Abschnitt 3/Abschnitt 2/Abschnitt 1/index.xml",
+		"BJNR089400004BJNE000300000": "Abschnitt 3/Abschnitt 2/Abschnitt 1/§ 1.xml",
+		"BJNR089400004BJNE000503360": "Abschnitt 3/Abschnitt 2/§ 3.xml",
+		"BJNR089400004BJNE000600000": "Abschnitt 3/Abschnitt 2/§ 4.xml",
+		"BJNR089400004BJNE000700000": "Abschnitt 3/Abschnitt 2/§ 5.xml",
+		"BJNR089400004BJNE000801360": "Abschnitt 3/Abschnitt 2/§ 6.xml",
+		"BJNR089400004BJNE000900000": "Abschnitt 3/§ 7.xml",
+		"BJNR089400004BJNE001000000": "Abschnitt 3/§ 8.xml",
+		"BJNR089400004BJNE001100000": "Abschnitt 3/§ 9.xml"
+	},
+	"metadata": {
+		"abbreviation": "HalblSchV",
+		"officialAbbreviation": "HalblSchV",
+		"shortTitle": "Halbleiterschutzverordnung",
+		"title": "Verordnung zur Ausführung des Halbleiterschutzgesetzes",
+		"enactmentDate": "2004-05-11",
+		"citations": [
+			{
+				"type": "amtlich",
+				"periodical": "BGBl I",
+				"reference": "2004, 894"
+			}
+		],
+		"statusNotes": [
+			{
+				"type": "Stand",
+				"text": "Zuletzt geändert durch Art. 74 G v. 10.8.2021 I 3436"
+			}
+		]
+	},
+	"introductoryNotes": [
+		"(+++ Textnachweis ab: 1.6.2004 +++)"
+	]
+}

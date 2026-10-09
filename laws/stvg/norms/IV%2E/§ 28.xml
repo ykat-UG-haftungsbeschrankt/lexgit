@@ -1,0 +1,92 @@
+<norm builddate="20260930215509" doknr="BJNR004370909BJNE004311123">
+	<metadaten>
+		<jurabk>StVG</jurabk>
+		<enbez>§ 28</enbez>
+		<titel format="XML">Führung und Inhalt des Fahreignungsregisters</titel>
+	</metadaten>
+	<textdaten>
+		<text format="XML">
+			<content>
+				<p>(1) Das Kraftfahrt-Bundesamt führt das Fahreignungsregister nach den Vorschriften dieses Abschnitts.</p>
+				<p>(2) Das Fahreignungsregister wird geführt zur Speicherung von Daten, die erforderlich sind
+					<dl font="normal" type="arabic">
+						<dt>1.</dt>
+						<dd font="normal"><la size="normal">für die Beurteilung der Eignung und der Befähigung von Personen zum Führen von Kraftfahrzeugen oder zum Begleiten eines Kraftfahrzeugführers entsprechend einer nach § 6e Abs. 1 erlassenen Rechtsverordnung,</la></dd>
+						<dt>2.</dt>
+						<dd font="normal"><la size="normal">für die Prüfung der Berechtigung zum Führen von Fahrzeugen,</la></dd>
+						<dt>3.</dt>
+						<dd font="normal"><la size="normal">für die Ahndung der Verstöße von Personen, die wiederholt Straftaten oder Ordnungswidrigkeiten, die im Zusammenhang mit dem Straßenverkehr stehen, begehen oder</la></dd>
+						<dt>4.</dt>
+						<dd font="normal"><la size="normal">für die Beurteilung von Personen im Hinblick auf ihre Zuverlässigkeit bei der Wahrnehmung der ihnen durch Gesetz, Satzung oder Vertrag übertragenen Verantwortung für die Einhaltung der zur Sicherheit im Straßenverkehr bestehenden Vorschriften.</la></dd>
+					</dl>
+				</p>
+				<p>(3) Im Fahreignungsregister werden Daten gespeichert über
+					<dl font="normal" type="arabic">
+						<dt>1.</dt>
+						<dd font="normal"><la size="normal">rechtskräftige Entscheidungen der Strafgerichte wegen einer Straftat, die in der Rechtsverordnung nach § 6 Absatz 1 Satz 1 Nummer 4 bezeichnet ist, soweit sie auf Strafe, Verwarnung mit Strafvorbehalt erkennen oder einen Schuldspruch enthalten,</la></dd>
+						<dt>2.</dt>
+						<dd font="normal"><la size="normal">rechtskräftige Entscheidungen der Strafgerichte, die die Entziehung der Fahrerlaubnis, eine isolierte Sperre oder ein Fahrverbot anordnen, sofern sie nicht von Nummer 1 erfasst sind, sowie Entscheidungen der Strafgerichte, die die vorläufige Entziehung der Fahrerlaubnis anordnen,</la></dd>
+						<dt>3.</dt>
+						<dd font="normal">
+							<la size="normal">rechtskräftige Entscheidungen wegen einer Ordnungswidrigkeit
+								<dl font="normal" type="alpha">
+									<dt>a)</dt>
+									<dd font="normal">
+										<la size="normal">nach den § 24 Absatz 1, § 24a oder § 24c, soweit sie in der Rechtsverordnung nach § 6 Absatz 1 Satz 1 Nummer 4 bezeichnet ist und gegen die betroffene Person
+											<dl font="normal" type="a-alpha">
+												<dt>aa)</dt>
+												<dd font="normal"><la size="normal">ein Fahrverbot nach § 25 angeordnet worden ist oder</la></dd>
+												<dt>bb)</dt>
+												<dd font="normal"><la size="normal">eine Geldbuße von mindestens sechzig Euro festgesetzt worden ist und § 28a nichts anderes bestimmt,</la></dd>
+											</dl>
+										</la>
+									</dd>
+									<dt>b)</dt>
+									<dd font="normal"><la size="normal">nach den § 24 Absatz 1, § 24a oder § 24c, soweit kein Fall des Buchstaben a vorliegt und ein Fahrverbot angeordnet worden ist,</la></dd>
+									<dt>c)</dt>
+									<dd font="normal"><la size="normal">nach § 10 des Gefahrgutbeförderungsgesetzes, soweit sie in der Rechtsverordnung nach § 6 Absatz 1 Satz 1 Nummer 4 bezeichnet ist,</la></dd>
+								</dl>
+							</la>
+						</dd>
+						<dt>4.</dt>
+						<dd font="normal"><la size="normal">unanfechtbare oder sofort vollziehbare Verbote oder Beschränkungen, ein fahrerlaubnisfreies Fahrzeug zu führen,</la></dd>
+						<dt>5.</dt>
+						<dd font="normal"><la size="normal">unanfechtbare Versagungen einer Fahrerlaubnis,</la></dd>
+						<dt>6.</dt>
+						<dd font="normal">
+							<la size="normal">unanfechtbare oder sofort vollziehbare
+								<dl font="normal" type="alpha">
+									<dt>a)</dt>
+									<dd font="normal"><la size="normal">Entziehungen, Widerrufe oder Rücknahmen einer Fahrerlaubnis,</la></dd>
+									<dt>b)</dt>
+									<dd font="normal"><la size="normal">Feststellungen über die fehlende Berechtigung, von einer ausländischen Fahrerlaubnis im Inland Gebrauch zu machen,</la></dd>
+								</dl>
+							</la>
+						</dd>
+						<dt>7.</dt>
+						<dd font="normal"><la size="normal">Verzichte auf die Fahrerlaubnis,</la></dd>
+						<dt>8.</dt>
+						<dd font="normal"><la size="normal">unanfechtbare Ablehnungen eines Antrags auf Verlängerung der Geltungsdauer einer Fahrerlaubnis,</la></dd>
+						<dt>9.</dt>
+						<dd font="normal"><la size="normal">die Beschlagnahme, Sicherstellung oder Verwahrung von Führerscheinen nach § 94 der Strafprozessordnung,</la></dd>
+						<dt>10.</dt>
+						<dd font="normal"><la size="normal">(weggefallen)</la></dd>
+						<dt>11.</dt>
+						<dd font="normal"><la size="normal">Maßnahmen der Fahrerlaubnisbehörde nach § 2a Abs. 2 Satz 1 Nr. 1 und 2 und § 4 Absatz 5 Satz 1 Nr. 1 und 2,</la></dd>
+						<dt>12.</dt>
+						<dd font="normal"><la size="normal">die Teilnahme an einem Aufbauseminar, an einem besonderen Aufbauseminar und an einer verkehrspsychologischen Beratung, soweit dies für die Anwendung der Regelungen der Fahrerlaubnis auf Probe (§ 2a) erforderlich ist,</la></dd>
+						<dt>13.</dt>
+						<dd font="normal"><la size="normal">die Teilnahme an einem Fahreignungsseminar, soweit dies für die Anwendung der Regelungen des Fahreignungs-Bewertungssystems (§ 4) erforderlich ist,</la></dd>
+						<dt>14.</dt>
+						<dd font="normal"><la size="normal">Entscheidungen oder Änderungen, die sich auf eine der in den Nummern 1 bis 13 genannten Eintragungen beziehen.</la></dd>
+					</dl>
+				</p>
+				<p>(4) Die Gerichte, Staatsanwaltschaften und anderen Behörden teilen dem Kraftfahrt-Bundesamt unverzüglich die nach Absatz 3 zu speichernden oder zu einer Änderung oder Löschung einer Eintragung führenden Daten mit. Die Datenübermittlung nach Satz 1 kann auch im Wege der Datenfernübertragung durch Direkteinstellung unter Beachtung des § 30a Absatz 2 bis 4 erfolgen.</p>
+				<p>(5) Bei Zweifeln an der Identität einer eingetragenen Person mit der Person, auf die sich eine Mitteilung nach Absatz 4 bezieht, dürfen die Datenbestände des Zentralen Fahrerlaubnisregisters und des Zentralen Fahrzeugregisters zur Identifizierung dieser Personen verwendet werden. Ist die Feststellung der Identität der betreffenden Personen auf diese Weise nicht möglich, dürfen die auf Anfrage aus den Melderegistern übermittelten Daten zur Behebung der Zweifel verwendet werden. Die Zulässigkeit der Übermittlung durch die Meldebehörden richtet sich nach den Meldegesetzen der Länder. Können die Zweifel an der Identität der betreffenden Personen nicht ausgeräumt werden, werden die Eintragungen über beide Personen mit einem Hinweis auf die Zweifel an deren Identität versehen.</p>
+				<p>(6) Die regelmäßige Verwendung der auf Grund des § 50 Abs. 1 im Zentralen Fahrerlaubnisregister gespeicherten Daten ist zulässig, um Fehler und Abweichungen bei den Personendaten sowie den Daten über Fahrerlaubnisse und Führerscheine der betreffenden Person im Fahreignungsregister festzustellen und zu beseitigen und um das Fahreignungsregister zu vervollständigen.</p>
+			</content>
+		</text>
+		<fussnoten>
+			</fussnoten>
+	</textdaten>
+</norm>

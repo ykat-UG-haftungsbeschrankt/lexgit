@@ -1,0 +1,60 @@
+<norm builddate="20260930215509" doknr="BJNR004370909BJNE005708123">
+	<metadaten>
+		<jurabk>StVG</jurabk>
+		<enbez>§ 33</enbez>
+		<titel format="XML">Inhalt der Fahrzeugregister</titel>
+	</metadaten>
+	<textdaten>
+		<text format="XML">
+			<content>
+				<p>(1) Im örtlichen und im Zentralen Fahrzeugregister werden, soweit dies zur Erfüllung der in § 32 genannten Aufgaben jeweils erforderlich ist, gespeichert
+					<dl font="normal" type="arabic">
+						<dt>1.</dt>
+						<dd font="normal"><la size="normal">nach näherer Bestimmung durch Rechtsverordnung (§ 47 Nummer 1 und 1a) Daten über Beschaffenheit, Ausrüstung, Identifizierungsmerkmale, Zulassungsmerkmale, Prüfung und Untersuchung einschließlich der durchführenden Stelle und einer Kennung für die Feststellung des für die Durchführung der Prüfung oder Untersuchung Verantwortlichen, Kennzeichnung und Papiere des Fahrzeugs sowie über tatsächliche und rechtliche Verhältnisse in Bezug auf das Fahrzeug, insbesondere auch über die Haftpflichtversicherung, die Kraftfahrzeugbesteuerung des Fahrzeugs und die Verwertung oder Nichtentsorgung des Fahrzeugs als Abfall im Inland (Fahrzeugdaten), sowie</la></dd>
+						<dt>2.</dt>
+						<dd font="normal">
+							<la size="normal">Daten über denjenigen, dem ein Kennzeichen für das Fahrzeug zugeteilt oder ausgegeben wird (Halterdaten), und zwar
+								<dl font="normal" type="arabic">
+									<dt>a)</dt>
+									<dd font="normal"><la size="normal">bei natürlichen Personen:</la><la size="normal">Familienname, Geburtsname, Vornamen, vom Halter für die Zuteilung oder die Ausgabe des Kennzeichens angegebener Ordens- oder Künstlername, Tag sowie Staat und Ort der Geburt, Geschlecht, Anschrift; bei Fahrzeugen mit Versicherungskennzeichen entfällt die Speicherung von Geburtsnamen, Ort der Geburt und Geschlecht des Halters,</la></dd>
+									<dt>b)</dt>
+									<dd font="normal"><la size="normal">bei juristischen Personen und Behörden:</la><la size="normal">Name oder Bezeichnung und Anschrift und</la></dd>
+									<dt>c)</dt>
+									<dd font="normal"><la size="normal">bei Vereinigungen:</la><la size="normal">benannter Vertreter mit den Angaben nach Buchstabe a oder b und gegebenenfalls Name der Vereinigung.</la></dd>
+								</dl>
+							</la>
+						</dd>
+					</dl>
+				Im örtlichen und im Zentralen Fahrzeugregister werden zur Erfüllung der in § 32 genannten Aufgaben außerdem Daten über denjenigen gespeichert, an den ein Fahrzeug mit einem amtlichen Kennzeichen veräußert wurde (Halterdaten), und zwar
+					<dl font="normal" type="arabic">
+						<dt></dt>
+						<dd font="normal">
+							<la size="normal">
+								<dl font="normal" type="arabic">
+									<dt>a)</dt>
+									<dd font="normal"><la size="normal">bei natürlichen Personen:</la><la size="normal">Familienname, Vornamen und Anschrift,</la></dd>
+									<dt>b)</dt>
+									<dd font="normal"><la size="normal">bei juristischen Personen und Behörden:</la><la size="normal">Name oder Bezeichnung und Anschrift und</la></dd>
+									<dt>c)</dt>
+									<dd font="normal"><la size="normal">bei Vereinigungen:</la><la size="normal">benannter Vertreter mit den Angaben nach Buchstabe a oder b und gegebenenfalls Name der Vereinigung.</la></dd>
+								</dl>
+							</la>
+						</dd>
+					</dl>
+				</p>
+				<p>(2) Im örtlichen und im Zentralen Fahrzeugregister werden über beruflich Selbständige, denen ein amtliches Kennzeichen für ein Fahrzeug zugeteilt wird, für die Aufgaben nach § 32 Abs. 1 Nr. 4 und 5 Berufsdaten gespeichert, und zwar
+					<dl font="normal" type="arabic">
+						<dt>1.</dt>
+						<dd font="normal"><la size="normal">bei natürlichen Personen der Beruf oder das Gewerbe (Wirtschaftszweig) und</la></dd>
+						<dt>2.</dt>
+						<dd font="normal"><la size="normal">bei juristischen Personen und Vereinigungen gegebenenfalls das Gewerbe (Wirtschaftszweig).</la></dd>
+					</dl>
+				</p>
+				<p>(3) Im örtlichen und im Zentralen Fahrzeugregister darf die Anordnung einer Fahrtenbuchauflage wegen Zuwiderhandlungen gegen Verkehrsvorschriften gespeichert werden.</p>
+				<p>(4) Ferner werden für Daten, die nicht übermittelt werden dürfen (§ 41), in den Fahrzeugregistern Übermittlungssperren gespeichert.</p>
+			</content>
+		</text>
+		<fussnoten>
+			</fussnoten>
+	</textdaten>
+</norm>

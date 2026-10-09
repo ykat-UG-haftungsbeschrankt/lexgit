@@ -1,0 +1,37 @@
+body{
+	margin:0;
+	background:#f6f5f0;
+	color:#26362e;
+	font:15px/1.6 "Segoe UI",sans-serif;
+}
+main{
+	max-width:620px;
+	margin:8vh auto;
+	padding:24px;
+}
+form{
+	display:flex;
+	flex-direction:column;
+	gap:12px;
+	margin:30px 0;
+}
+input,button{
+	padding:12px;
+	border:1px solid #b9c3d0;
+	border-radius:6px;
+	font:inherit;
+}
+button{
+	background:#214c3a;
+	color:#fff;
+	cursor:pointer;
+}
+button:disabled{
+	opacity:.6;
+	cursor:wait;
+}
+#error{
+	color:#852b2b;
+	white-space:pre-wrap;
+	overflow-wrap:anywhere;
+}

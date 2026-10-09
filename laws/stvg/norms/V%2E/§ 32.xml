@@ -1,0 +1,55 @@
+<norm builddate="20260930215509" doknr="BJNR004370909BJNE005608123">
+	<metadaten>
+		<jurabk>StVG</jurabk>
+		<enbez>§ 32</enbez>
+		<titel format="XML">Zweckbestimmung der Fahrzeugregister</titel>
+	</metadaten>
+	<textdaten>
+		<text format="XML">
+			<content>
+				<p>(1) Die Fahrzeugregister werden geführt zur Speicherung von Daten
+					<dl font="normal" type="arabic">
+						<dt>1.</dt>
+						<dd font="normal"><la size="normal">für die Zulassung und Überwachung von Fahrzeugen nach diesem Gesetz oder den darauf beruhenden Rechtsvorschriften,</la></dd>
+						<dt>2.</dt>
+						<dd font="normal"><la size="normal">für Maßnahmen zur Gewährleistung des Versicherungsschutzes im Rahmen der Kraftfahrzeughaftpflichtversicherung,</la></dd>
+						<dt>3.</dt>
+						<dd font="normal"><la size="normal">für Maßnahmen zur Durchführung des Kraftfahrzeugsteuerrechts,</la></dd>
+						<dt>4.</dt>
+						<dd font="normal"><la size="normal">für Maßnahmen nach dem Bundesleistungsgesetz, dem Verkehrssicherstellungsgesetz, dem Verkehrsleistungsgesetz oder den darauf beruhenden Rechtsvorschriften,</la></dd>
+						<dt>5.</dt>
+						<dd font="normal"><la size="normal">für Maßnahmen des Katastrophenschutzes nach den hierzu erlassenen Gesetzen der Länder oder den darauf beruhenden Rechtsvorschriften,</la></dd>
+						<dt>6.</dt>
+						<dd font="normal"><la size="normal">für Maßnahmen zur Durchführung des Altfahrzeugrechts,</la></dd>
+						<dt>7.</dt>
+						<dd font="normal"><la size="normal">(weggefallen)</la></dd>
+						<dt>8.</dt>
+						<dd font="normal"><la size="normal">für Maßnahmen zur Durchführung der Datenverarbeitung bei Kraftfahrzeugen mit automatisierter Fahrfunktion nach diesem Gesetz oder nach den auf diesem Gesetz beruhenden Rechtsvorschriften und</la></dd>
+						<dt>9.</dt>
+						<dd font="normal"><la size="normal">für Maßnahmen nach oder zur Umsetzung von unionsrechtlichen Vorschriften, soweit diese die Verwendung von in den Fahrzeugregistern gespeicherten Daten erfordern.</la></dd>
+					</dl>
+				</p>
+				<p>(2) Die Fahrzeugregister werden außerdem geführt zur Speicherung von Daten für die Erteilung von Auskünften, um
+					<dl font="normal" type="arabic">
+						<dt>1.</dt>
+						<dd font="normal"><la size="normal">Personen in ihrer Eigenschaft als Halter von Fahrzeugen,</la></dd>
+						<dt>2.</dt>
+						<dd font="normal"><la size="normal">Fahrzeuge eines Halters oder</la></dd>
+						<dt>3.</dt>
+						<dd font="normal"><la size="normal">Fahrzeugdaten</la></dd>
+					</dl>
+				festzustellen oder zu bestimmen.</p>
+				<p>(3) Das Zentrale Fahrzeugregister wird außerdem geführt zur Verwendung und Übermittlung der nach § 33 Absatz 1 gespeicherten Daten, um im Einzelfall Halter von Fahrzeugen zu informieren über fahrzeugbezogene Maßnahmen,
+					<dl font="normal" type="arabic">
+						<dt>1.</dt>
+						<dd font="normal"><la size="normal">die für ihre Fahrzeuge in Betracht kommen und</la></dd>
+						<dt>2.</dt>
+						<dd font="normal"><la size="normal">die dem Schutz der Verkehrssicherheit, der Gesundheit von Personen oder der Umwelt dienen.</la></dd>
+					</dl>
+				Fahrzeugbezogene Maßnahmen können insbesondere auf die Verbesserung von Fahrzeugeigenschaften, insbesondere auf die Verbesserung des Abgasverhaltens, des Geräuschverhaltens, des Kraftstoffverbrauchs oder des Fahrverhaltens abzielen.</p>
+			</content>
+		</text>
+		<fussnoten>
+			</fussnoten>
+	</textdaten>
+</norm>

@@ -1,0 +1,23 @@
+<norm builddate="20260930215509" doknr="BJNR004370909BJNE004406123">
+	<metadaten>
+		<jurabk>StVG</jurabk>
+		<enbez>§ 28a</enbez>
+		<titel format="XML">Eintragung beim Abweichen vom Bußgeldkatalog</titel>
+	</metadaten>
+	<textdaten>
+		<text format="XML">
+			<content>
+				<p>Wird die Geldbuße wegen einer Ordnungswidrigkeit nach den § 24 Absatz 1, § 24a und § 24c lediglich mit Rücksicht auf die wirtschaftlichen Verhältnisse der betroffenen Person abweichend von dem Regelsatz der Geldbuße festgesetzt, der für die zugrunde liegende Ordnungswidrigkeit im Bußgeldkatalog (§ 26a) vorgesehen ist, so ist in der Entscheidung dieser Paragraph bei den angewendeten Bußgeldvorschriften aufzuführen, wenn der Regelsatz der Geldbuße
+					<dl font="normal" type="arabic">
+						<dt>1.</dt>
+						<dd font="normal"><la size="normal">sechzig Euro oder mehr beträgt und eine geringere Geldbuße festgesetzt wird oder</la></dd>
+						<dt>2.</dt>
+						<dd font="normal"><la size="normal">weniger als sechzig Euro beträgt und eine Geldbuße von sechzig Euro oder mehr festgesetzt wird.</la></dd>
+					</dl>
+				In diesen Fällen ist für die Eintragung in das Fahreignungsregister der im Bußgeldkatalog vorgesehene Regelsatz maßgebend.</p>
+			</content>
+		</text>
+		<fussnoten>
+			</fussnoten>
+	</textdaten>
+</norm>

@@ -1,0 +1,24 @@
+<norm builddate="20260930215509" doknr="BJNR004370909BJNE011601123">
+	<metadaten>
+		<jurabk>StVG</jurabk>
+		<enbez>§ 1b</enbez>
+		<titel format="XML">Rechte und Pflichten des Fahrzeugführers bei Nutzung automatisierter Fahrfunktionen</titel>
+	</metadaten>
+	<textdaten>
+		<text format="XML">
+			<content>
+				<p>(1) Der Fahrzeugführer darf sich während der Fahrzeugführung mittels automatisierter Fahrfunktionen gemäß § 1a vom Verkehrsgeschehen und der Fahrzeugsteuerung abwenden; dabei muss er derart wahrnehmungsbereit bleiben, dass er seiner Pflicht nach Absatz 2 jederzeit nachkommen kann.</p>
+				<p>(2) Der Fahrzeugführer ist verpflichtet, die Fahrzeugsteuerung unverzüglich wieder zu übernehmen,
+					<dl font="normal" type="arabic">
+						<dt>1.</dt>
+						<dd font="normal"><la size="normal">wenn das automatisierte System ihn dazu auffordert oder</la></dd>
+						<dt>2.</dt>
+						<dd font="normal"><la size="normal">wenn er erkennt oder auf Grund offensichtlicher Umstände erkennen muss, dass die Voraussetzungen für eine bestimmungsgemäße Verwendung der automatisierten Fahrfunktionen nicht mehr vorliegen.</la></dd>
+					</dl>
+				</p>
+			</content>
+		</text>
+		<fussnoten>
+			</fussnoten>
+	</textdaten>
+</norm>

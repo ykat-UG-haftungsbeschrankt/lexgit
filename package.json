@@ -1,0 +1,71 @@
+{
+  "name": "j4",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "main": "dist-electron/main.cjs",
+  "description": "Desktop law viewer with editable files and Git history",
+  "author": "Office Law",
+  "scripts": {
+    "dev": "vite --host 0.0.0.0",
+    "build": "tsc -b && vite build",
+    "check": "tsc -b --pretty",
+    "preview": "vite preview --host 0.0.0.0",
+    "start": "vite --host 0.0.0.0",
+    "electron:build": "npm run build && node scripts/build-electron.mjs",
+    "electron:start": "electron .",
+    "electron:pack": "npm run electron:build && node scripts/package-electron.mjs --dir",
+    "electron:dist": "npm run electron:build && node scripts/package-electron.mjs"
+  },
+  "build": {
+    "appId": "de.officelaw.desktop",
+    "productName": "Office Law",
+    "directories": {
+      "output": "release"
+    },
+    "files": [
+      "dist/**/*",
+      "dist-electron/**/*",
+      "package.json"
+    ],
+    "npmRebuild": false,
+    "linux": {
+      "target": [
+        "AppImage"
+      ],
+      "category": "Office"
+    },
+    "win": {
+      "target": [
+        "nsis"
+      ]
+    },
+    "mac": {
+      "target": [
+        "dmg"
+      ],
+      "category": "public.app-category.productivity"
+    }
+  },
+  "devDependencies": {
+    "@types/react": "^19.1.15",
+    "@types/react-dom": "^19.1.9",
+    "@vitejs/plugin-react": "^5.0.4",
+    "electron": "^39.8.10",
+    "electron-builder": "^26.15.3",
+    "esbuild": "^0.25.12",
+    "typescript": "^5.9.3",
+    "vite": "^7.1.7"
+  },
+  "dependencies": {
+    "@editorjs/editorjs": "^2.31.7",
+    "@editorjs/list": "^2.0.9",
+    "@editorjs/paragraph": "^2.11.7",
+    "@tiptap/core": "^3.31.4",
+    "@tiptap/pm": "^3.31.4",
+    "@tiptap/starter-kit": "^3.31.4",
+    "@xmldom/xmldom": "^0.9.8",
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1"
+  }
+}

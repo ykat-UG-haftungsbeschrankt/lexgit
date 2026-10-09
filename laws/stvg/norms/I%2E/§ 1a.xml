@@ -1,0 +1,41 @@
+<norm builddate="20260930215509" doknr="BJNR004370909BJNE011501123">
+	<metadaten>
+		<jurabk>StVG</jurabk>
+		<enbez>§ 1a</enbez>
+		<titel format="XML">Kraftfahrzeuge mit automatisierter Fahrfunktion</titel>
+	</metadaten>
+	<textdaten>
+		<text format="XML">
+			<content>
+				<p>(1) Der Betrieb eines Kraftfahrzeugs mittels automatisierter Fahrfunktion ist zulässig, wenn die Funktion bestimmungsgemäß verwendet wird.</p>
+				<p>(2) Kraftfahrzeuge mit automatisierter Fahrfunktion im Sinne dieses Gesetzes sind solche, die über eine technische Ausrüstung verfügen,
+					<dl font="normal" type="arabic">
+						<dt>1.</dt>
+						<dd font="normal"><la size="normal">die zur Bewältigung der Fahraufgabe – einschließlich Längs- und Querführung – das jeweilige Kraftfahrzeug nach Aktivierung steuern (Fahrzeugsteuerung) kann,</la></dd>
+						<dt>2.</dt>
+						<dd font="normal"><la size="normal">die in der Lage ist, während der automatisierten Fahrzeugsteuerung den an die Fahrzeugführung gerichteten Verkehrsvorschriften zu entsprechen,</la></dd>
+						<dt>3.</dt>
+						<dd font="normal"><la size="normal">die jederzeit durch den Fahrzeugführer manuell übersteuerbar oder deaktivierbar ist,</la></dd>
+						<dt>4.</dt>
+						<dd font="normal"><la size="normal">die die Erforderlichkeit der eigenhändigen Fahrzeugsteuerung durch den Fahrzeugführer erkennen kann,</la></dd>
+						<dt>5.</dt>
+						<dd font="normal"><la size="normal">die dem Fahrzeugführer das Erfordernis der eigenhändigen Fahrzeugsteuerung mit ausreichender Zeitreserve vor der Abgabe der Fahrzeugsteuerung an den Fahrzeugführer optisch, akustisch, taktil oder sonst wahrnehmbar anzeigen kann und</la></dd>
+						<dt>6.</dt>
+						<dd font="normal"><la size="normal">die auf eine der Systembeschreibung zuwiderlaufende Verwendung hinweist.</la></dd>
+					</dl>
+				Der Hersteller eines solchen Kraftfahrzeugs hat in der Systembeschreibung verbindlich zu erklären, dass das Fahrzeug den Voraussetzungen des Satzes 1 entspricht.</p>
+				<p>(3) Die vorstehenden Absätze sind nur auf solche Fahrzeuge anzuwenden, die nach § 1 Absatz 1 zugelassen sind, den in Absatz 2 Satz 1 enthaltenen Vorgaben entsprechen und deren automatisierte Fahrfunktionen
+					<dl font="normal" type="arabic">
+						<dt>1.</dt>
+						<dd font="normal"><la size="normal">in internationalen, im Geltungsbereich dieses Gesetzes anzuwendenden Vorschriften beschrieben sind und diesen entsprechen oder</la></dd>
+						<dt>2.</dt>
+						<dd font="normal"><la size="normal">eine Typgenehmigung gemäß Artikel 20 der Richtlinie 2007/46/EG des Europäischen Parlaments und des Rates vom 5. September 2007 zur Schaffung eines Rahmens für die Genehmigung von Kraftfahrzeugen und Kraftfahrzeuganhängern sowie von Systemen, Bauteilen und selbstständigen technischen Einheiten für diese Fahrzeuge (Rahmenrichtlinie) (ABl. L 263 vom 9.10.2007, S. 1) erteilt bekommen haben.</la></dd>
+					</dl>
+				</p>
+				<p>(4) Fahrzeugführer ist auch derjenige, der eine automatisierte Fahrfunktion im Sinne des Absatzes 2 aktiviert und zur Fahrzeugsteuerung verwendet, auch wenn er im Rahmen der bestimmungsgemäßen Verwendung dieser Funktion das Fahrzeug nicht eigenhändig steuert.</p>
+			</content>
+		</text>
+		<fussnoten>
+			</fussnoten>
+	</textdaten>
+</norm>

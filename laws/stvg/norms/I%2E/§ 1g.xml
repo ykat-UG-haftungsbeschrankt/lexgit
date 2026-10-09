@@ -1,0 +1,92 @@
+<norm builddate="20260930215509" doknr="BJNR004370909BJNE013500123">
+	<metadaten>
+		<jurabk>StVG</jurabk>
+		<enbez>§ 1g</enbez>
+		<titel format="XML">Datenverarbeitung</titel>
+	</metadaten>
+	<textdaten>
+		<text format="XML">
+			<content>
+				<p>(1) Der Halter eines Kraftfahrzeugs mit autonomer Fahrfunktion ist verpflichtet, folgende Daten beim Betrieb des Kraftfahrzeugs zu speichern:
+					<dl type="arabic">
+						<dt>1.</dt>
+						<dd font="normal"><la>Fahrzeugidentifizierungsnummer,</la></dd>
+						<dt>2.</dt>
+						<dd font="normal"><la>Positionsdaten,</la></dd>
+						<dt>3.</dt>
+						<dd font="normal"><la>Anzahl und Zeiten der Nutzung sowie der Aktivierung und der Deaktivierung der autonomen Fahrfunktion,</la></dd>
+						<dt>4.</dt>
+						<dd font="normal"><la>Anzahl und Zeiten der Freigabe von alternativen Fahrmanövern,</la></dd>
+						<dt>5.</dt>
+						<dd font="normal"><la>Systemüberwachungsdaten einschließlich Daten zum Softwarestand,</la></dd>
+						<dt>6.</dt>
+						<dd font="normal"><la>Umwelt- und Wetterbedingungen,</la></dd>
+						<dt>7.</dt>
+						<dd font="normal"><la>Vernetzungsparameter wie beispielsweise Übertragungslatenz und verfügbare Bandbreite,</la></dd>
+						<dt>8.</dt>
+						<dd font="normal"><la>Name der aktivierten und deaktivierten passiven und aktiven Sicherheitssysteme, Daten zum Zustand dieser Sicherheitssysteme sowie die Instanz, die das Sicherheitssystem ausgelöst hat,</la></dd>
+						<dt>9.</dt>
+						<dd font="normal"><la>Fahrzeugbeschleunigung in Längs- und Querrichtung,</la></dd>
+						<dt>10.</dt>
+						<dd font="normal"><la>Geschwindigkeit,</la></dd>
+						<dt>11.</dt>
+						<dd font="normal"><la>Status der lichttechnischen Einrichtungen,</la></dd>
+						<dt>12.</dt>
+						<dd font="normal"><la>Spannungsversorgung des Kraftfahrzeugs mit autonomer Fahrfunktion,</la></dd>
+						<dt>13.</dt>
+						<dd font="normal"><la>von extern an das Kraftfahrzeug gesendete Befehle und Informationen.</la></dd>
+					</dl>
+				Der Halter ist verpflichtet, dem Kraftfahrt-Bundesamt und der nach Bundes- oder Landesrecht zuständigen Behörde oder auf Bundesfernstraßen, soweit dem Bund die Verwaltung zusteht, der Gesellschaft privaten Rechts im Sinne des Infrastrukturgesellschaftserrichtungsgesetzes auf Verlangen die Daten nach Satz 1 zu übermitteln, soweit dies erforderlich ist
+					<dl type="arabic">
+						<dt>1.</dt>
+						<dd font="normal"><la>bezüglich des Kraftfahrt-Bundesamts für dessen Aufgabenerfüllung nach den Absätzen 4 und 5 und</la></dd>
+						<dt>2.</dt>
+						<dd font="normal"><la>bezüglich der nach Bundes- oder Landesrecht zuständigen Behörde oder auf Bundesfernstraßen, soweit dem Bund die Verwaltung zusteht, der Gesellschaft privaten Rechts im Sinne des Infrastrukturgesellschaftserrichtungsgesetzes für deren Aufgabenerfüllung nach Absatz 6.</la></dd>
+					</dl>
+				</p>
+				<p>(2) Die Daten gemäß Absatz 1 sind bei den folgenden Anlässen zu speichern:
+					<dl type="arabic">
+						<dt>1.</dt>
+						<dd font="normal"><la>bei Eingriffen durch die Technische Aufsicht,</la></dd>
+						<dt>2.</dt>
+						<dd font="normal"><la>bei Konfliktszenarien, insbesondere bei Unfällen und Fast-Unfall-Szenarien,</la></dd>
+						<dt>3.</dt>
+						<dd font="normal"><la>bei nicht planmäßigem Spurwechsel oder Ausweichen,</la></dd>
+						<dt>4.</dt>
+						<dd font="normal"><la>bei Störungen im Betriebsablauf.</la></dd>
+					</dl>
+				</p>
+				<p>(3) Der Hersteller eines Kraftfahrzeugs mit autonomer Fahrfunktion hat das Fahrzeug so auszustatten, dass die Speicherung der Daten gemäß Absatz 1 und 2 dem Halter tatsächlich möglich ist. Der Hersteller muss den Halter präzise, klar und in leichter Sprache über die Einstellungsmöglichkeiten zur Privatsphäre und zur Verarbeitung der Daten, die beim Betrieb des Kraftfahrzeugs in der autonomen Fahrfunktion verarbeitet werden, informieren. Die diesbezügliche Software des Kraftfahrzeugs muss Wahlmöglichkeiten zur Art und Weise der Speicherung und der Übermittlung der in der autonomen Fahrfunktion verarbeiteten Daten vorsehen und dem Halter entsprechende Einstellungen ermöglichen.</p>
+				<p>(4) Das Kraftfahrt-Bundesamt ist berechtigt, folgende Daten beim Halter zu erheben, zu speichern und zu verwenden, soweit dies für die Überwachung des sicheren Betriebs des Kraftfahrzeugs mit autonomer Fahrfunktion erforderlich ist:
+					<dl type="arabic">
+						<dt>1.</dt>
+						<dd font="normal"><la>Daten nach Absatz 1 und</la></dd>
+						<dt>2.</dt>
+						<dd font="normal"><la>Vor- und Nachname der als Technische Aufsicht eingesetzten Person sowie Nachweise über ihre fachliche Qualifikation.</la></dd>
+					</dl>
+				Setzt der Halter seinerseits Beschäftigte gemäß § 26 des Bundesdatenschutzgesetzes als Technische Aufsicht ein, findet § 26 des Bundesdatenschutzgesetzes Anwendung. Das Kraftfahrt-Bundesamt hat die Daten unverzüglich zu löschen, sobald sie für die Zwecke nach Satz 1 nicht mehr erforderlich sind, spätestens nach Ablauf von drei Jahren nach Einstellung des Betriebs des entsprechenden Kraftfahrzeugs.</p>
+				<p>(5) Sofern es sich nicht um ein Kraftfahrzeug im Sinne des § 1k handelt, ist das Kraftfahrt-Bundesamt berechtigt, die nach Absatz 4 Nummer 1 in Verbindung mit Absatz 1 beim Halter erhobenen nicht personenbezogenen Daten für verkehrsbezogene Gemeinwohlzwecke, insbesondere zum Zweck der wissenschaftlichen Forschung im Bereich der Digitalisierung, Automatisierung und Vernetzung sowie zum Zweck der Unfallforschung im Straßenverkehr, folgenden Stellen zugänglich zu machen:
+					<dl type="arabic">
+						<dt>1.</dt>
+						<dd font="normal"><la>Hochschulen und Universitäten,</la></dd>
+						<dt>2.</dt>
+						<dd font="normal"><la>außeruniversitäre Forschungseinrichtungen,</la></dd>
+						<dt>3.</dt>
+						<dd font="normal"><la>Bundes-, Landes- und Kommunalbehörden mit Forschungs-, Entwicklungs-, Verkehrsplanungs- oder Stadtplanungsaufgaben.</la></dd>
+					</dl>
+				Die in Satz 1 genannten Stellen dürfen die Daten ausschließlich für die in Satz 1 genannten Zwecke verwenden. Absatz 4 Satz 2 gilt entsprechend. Allgemeine Übermittlungsvorschriften bleiben unberührt.</p>
+				<p>(6) Die für die Genehmigung von festgelegten Betriebsbereichen nach Bundes- oder Landesrecht zuständigen Behörden oder auf Bundesfernstraßen, soweit dem Bund die Verwaltung zusteht, die Gesellschaft privaten Rechts im Sinne des Infrastrukturgesellschaftserrichtungsgesetzes sind berechtigt, folgende Daten beim Halter zu erheben, zu speichern und zu verwenden, soweit dies für die Prüfung und Überwachung erforderlich ist, ob der festgelegte Betriebsbereich für den Betrieb des Kraftfahrzeugs mit autonomer Fahrfunktion geeignet ist, insbesondere für die Überprüfung und Überwachung, ob die Voraussetzungen der jeweiligen Genehmigung vorliegen und die damit verbundenen Auflagen eingehalten werden:
+					<dl type="arabic">
+						<dt>1.</dt>
+						<dd font="normal"><la>Daten nach Absatz 1 und</la></dd>
+						<dt>2.</dt>
+						<dd font="normal"><la>Vor- und Nachname der als Technische Aufsicht eingesetzten Person sowie Nachweise über ihre fachliche Qualifikation.</la></dd>
+					</dl>
+				Die für die Genehmigung von festgelegten Betriebsbereichen nach Bundes- oder Landesrecht zuständigen Behörden oder auf Bundesfernstraßen, soweit dem Bund die Verwaltung zusteht, die Gesellschaft privaten Rechts im Sinne des Infrastrukturgesellschaftserrichtungsgesetzes haben diese Daten unverzüglich zu löschen, sobald sie für die Zwecke nach Satz 1 nicht mehr erforderlich sind, spätestens nach Ablauf von drei Jahren nach Einstellung des Betriebs des entsprechenden Kraftfahrzeugs.</p>
+				<p>(7) Unbeschadet der Absätze 1 bis 6 können Dritte vom Halter Auskunft über die gemäß Absatz 1 und 2 gespeicherten Daten verlangen, soweit diese Daten zur Geltendmachung, Befriedigung oder Abwehr von Rechtsansprüchen im Zusammenhang mit einem in § 7 Absatz 1 geregelten Ereignis erforderlich sind und das entsprechende Kraftfahrzeug mit autonomer Fahrfunktion an diesem Ereignis beteiligt war. Die Dritten haben die Daten unverzüglich zu löschen, sobald sie zur Geltendmachung von Rechtsansprüchen nicht mehr erforderlich sind, spätestens mit Verjährung der Ansprüche, für deren Geltendmachung, Befriedigung oder Abwehr die Daten erhoben wurden. Eine Verwendung dieser Daten durch die Dritten ist nur zu den in Satz 1 genannten Zwecken zulässig.</p>
+			</content>
+		</text>
+		<fussnoten>
+			</fussnoten>
+	</textdaten>
+</norm>

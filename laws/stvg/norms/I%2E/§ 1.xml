@@ -1,0 +1,25 @@
+<norm builddate="20260930215509" doknr="BJNR004370909BJNE000505305">
+	<metadaten>
+		<jurabk>StVG</jurabk>
+		<enbez>§ 1</enbez>
+		<titel format="XML">Zulassunggg</titel>
+	</metadaten>
+	<textdaten>
+		<text format="XML">
+			<content>
+				<p>(1) Kraftfahrzeuge und ihre Anhänger, die auf öffentlichen Straßen in Betrieb gesetzt werden sollen, müssen von der zuständigen Behörde (Zulassungsbehörde) zum Verkehr zugelassen sein. Die Zulassung erfolgt auf Antrag des Verfügungsberechtigten des Fahrzeugs bei Vorliegen einer Betriebserlaubnis, Einzelgenehmigung oder EG-Typgenehmigung durch Zuteilung eines amtlichen Kennzeichens.</p>
+				<p>(2) Als Kraftfahrzeuge im Sinne dieses Gesetzes gelten Landfahrzeuge, die durch Maschinenkraft bewegt werden, ohne an Bahngleise gebunden zu sein.</p>
+				<p>(3) Keine Kraftfahrzeuge im Sinne dieses Gesetzes sind Landfahrzeuge, die durch Muskelkraft fortbewegt werden und mit einem elektromotorischen Hilfsantrieb mit einer Nenndauerleistung von höchstens 0,25 kW ausgestattet sind, dessen Unterstützung sich mit zunehmender Fahrzeuggeschwindigkeit progressiv verringert und
+					<dl font="normal" type="arabic">
+						<dt>1.</dt>
+						<dd font="normal"><la size="normal">beim Erreichen einer Geschwindigkeit von 25 km/h oder früher,</la></dd>
+						<dt>2.</dt>
+						<dd font="normal"><la size="normal">wenn der Fahrer im Treten einhält,</la></dd>
+					</dl>
+				unterbrochen wird. Satz 1 gilt auch dann, soweit die in Satz 1 bezeichneten Fahrzeuge zusätzlich über eine elektromotorische Anfahr- oder Schiebehilfe verfügen, die eine Beschleunigung des Fahrzeuges auf eine Geschwindigkeit von bis zu 6 km/h, auch ohne gleichzeitiges Treten des Fahrers, ermöglicht. Für Fahrzeuge im Sinne der Sätze 1 und 2 sind die Vorschriften über Fahrräder anzuwenden.</p>
+			</content>
+		</text>
+		<fussnoten>
+			</fussnoten>
+	</textdaten>
+</norm>

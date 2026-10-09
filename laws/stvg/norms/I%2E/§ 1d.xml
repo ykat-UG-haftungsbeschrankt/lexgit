@@ -1,0 +1,26 @@
+<norm builddate="20260930215509" doknr="BJNR004370909BJNE013200123">
+	<metadaten>
+		<jurabk>StVG</jurabk>
+		<enbez>§ 1d</enbez>
+		<titel format="XML">Kraftfahrzeuge mit autonomer Fahrfunktion in festgelegten Betriebsbereichen</titel>
+	</metadaten>
+	<textdaten>
+		<text format="XML">
+			<content>
+				<p>(1) Ein Kraftfahrzeug mit autonomer Fahrfunktion im Sinne dieses Gesetzes ist ein Kraftfahrzeug, das
+					<dl type="arabic">
+						<dt>1.</dt>
+						<dd font="normal"><la>die Fahraufgabe ohne eine fahrzeugführende Person selbstständig in einem festgelegten Betriebsbereich erfüllen kann und</la></dd>
+						<dt>2.</dt>
+						<dd font="normal"><la>über eine technische Ausrüstung gemäß § 1e Absatz 2 verfügt.</la></dd>
+					</dl>
+				</p>
+				<p>(2) Ein festgelegter Betriebsbereich im Sinne dieses Gesetzes bezeichnet den örtlich und räumlich bestimmten öffentlichen Straßenraum, in dem ein Kraftfahrzeug mit autonomer Fahrfunktion bei Vorliegen der Voraussetzungen gemäß § 1e Absatz 1 betrieben werden darf.</p>
+				<p>(3) Technische Aufsicht eines Kraftfahrzeugs mit autonomer Fahrfunktion im Sinne dieses Gesetzes ist diejenige natürliche Person, die dieses Kraftfahrzeug während des Betriebs gemäß § 1e Absatz 2 Nummer 8 deaktivieren und für dieses Kraftfahrzeug gemäß § 1e Absatz 2 Nummer 4 und Absatz 3 Fahrmanöver freigeben kann.</p>
+				<p>(4) Risikominimaler Zustand im Sinne dieses Gesetzes ist ein Zustand, in dem sich das Kraftfahrzeug mit autonomer Fahrfunktion auf eigene Veranlassung oder auf Veranlassung der Technischen Aufsicht an einer möglichst sicheren Stelle in den Stillstand versetzt und die Warnblinkanlage aktiviert, um unter angemessener Beachtung der Verkehrssituation die größtmögliche Sicherheit für die Fahrzeuginsassen, andere Verkehrsteilnehmende und Dritte zu gewährleisten.</p>
+			</content>
+		</text>
+		<fussnoten>
+			</fussnoten>
+	</textdaten>
+</norm>

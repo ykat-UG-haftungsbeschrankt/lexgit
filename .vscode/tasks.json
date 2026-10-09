@@ -1,0 +1,47 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "Run app",
+			"type": "shell",
+			"command": "npm",
+			"args": [
+				"run",
+				"dev",
+				"--",
+				"--port",
+				"5173",
+				"--strictPort"
+			],
+			"options": {
+				"cwd": "${workspaceFolder}"
+			},
+			"isBackground": true,
+			"problemMatcher": {
+				"owner": "vite",
+				"pattern": {
+					"regexp": "^(.*):(\\d+): (.*)$",
+					"file": 1,
+					"location": 2,
+					"message": 3
+				},
+				"background": {
+					"activeOnStart": true,
+					"beginsPattern": "VITE v",
+					"endsPattern": "Local:.*http://localhost:5173/"
+				}
+			}
+		},
+		{
+			"label": "Build Electron application",
+			"type": "shell",
+			"command": "npm",
+			"args": [
+				"run",
+				"electron:dist"
+			],
+			"problemMatcher": [],
+			"group": "build"
+		}
+	]
+}

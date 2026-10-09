@@ -1,0 +1,24 @@
+<norm builddate="20260930215509" doknr="BJNR004370909BJNE008102305">
+	<metadaten>
+		<jurabk>StVG</jurabk>
+		<enbez>§ 49</enbez>
+		<titel format="XML">Zweckbestimmung der Register</titel>
+	</metadaten>
+	<textdaten>
+		<text format="XML">
+			<content>
+				<p>(1) Die örtlichen Fahrerlaubnisregister und das Zentrale Fahrerlaubnisregister werden geführt zur Speicherung von Daten, die erforderlich sind, um feststellen zu können, welche Fahrerlaubnisse und welche Führerscheine eine Person besitzt oder für welche sie die Neuerteilung beantragen kann.</p>
+				<p>(2) Die örtlichen Fahrerlaubnisregister werden außerdem geführt zur Speicherung von Daten, die erforderlich sind
+					<dl font="normal" type="arabic">
+						<dt>1.</dt>
+						<dd font="normal"><la size="normal">für die Beurteilung der Eignung und Befähigung von Personen zum Führen von Kraftfahrzeugen und</la></dd>
+						<dt>2.</dt>
+						<dd font="normal"><la size="normal">für die Prüfung der Berechtigung zum Führen von Fahrzeugen.</la></dd>
+					</dl>
+				</p>
+			</content>
+		</text>
+		<fussnoten>
+			</fussnoten>
+	</textdaten>
+</norm>

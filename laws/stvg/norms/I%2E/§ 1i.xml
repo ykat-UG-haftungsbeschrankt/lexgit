@@ -1,0 +1,39 @@
+<norm builddate="20260930215509" doknr="BJNR004370909BJNE013701123">
+	<metadaten>
+		<jurabk>StVG</jurabk>
+		<enbez>§ 1i</enbez>
+		<titel format="XML">Erprobung von automatisierten und autonomen Fahrfunktionen</titel>
+	</metadaten>
+	<textdaten>
+		<text format="XML">
+			<content>
+				<p>(1) Kraftfahrzeuge, die zur Erprobung oder Entwicklung automatisierter oder autonomer Fahrfunktionen dienen, dürfen auf öffentlichen Straßen nur betrieben werden, wenn
+					<dl type="arabic">
+						<dt>1.</dt>
+						<dd font="normal"><la>für das Kraftfahrzeug eine Erprobungsgenehmigung durch das Kraftfahrt-Bundesamt nach Absatz 2 erteilt worden ist,</la></dd>
+						<dt>2.</dt>
+						<dd font="normal"><la>das Kraftfahrzeug nach § 1 Absatz 1 zugelassen ist,</la></dd>
+						<dt>3.</dt>
+						<dd font="normal"><la>das Kraftfahrzeug ausschließlich zur Erprobung betrieben wird und</la></dd>
+						<dt>4.</dt>
+						<dd font="normal">
+							<la>das Kraftfahrzeug im Betrieb wie folgt permanent überwacht wird:
+								<dl type="alpha">
+									<dt>a)</dt>
+									<dd font="normal"><la>bei automatisierten Fahrfunktionen erfolgt die Überwachung durch einen in Bezug auf technische Entwicklungen für den Kraftfahrzeugverkehr zuverlässigen Fahrzeugführer,</la></dd>
+									<dt>b)</dt>
+									<dd font="normal"><la>bei autonomen Fahrfunktionen erfolgt die Überwachung durch eine vor Ort anwesende, in Bezug auf technische Entwicklungen für den Kraftfahrzeugverkehr zuverlässige Technische Aufsicht.</la></dd>
+								</dl>
+							</la>
+						</dd>
+					</dl>
+				</p>
+				<p>(2) Eine Erprobungsgenehmigung gemäß Absatz 1 Nummer 1 wird vom Kraftfahrt-Bundesamt auf Antrag des Halters erteilt. Das Kraftfahrt-Bundesamt kann die Erprobungsgenehmigung jederzeit mit Nebenbestimmungen versehen, die den sicheren Betrieb des Fahrzeugs sicherstellen. Zu Nebenbestimmungen, die den Betrieb auf einen bestimmten Betriebsbereich beschränken, ist die nach Landesrecht zuständige Behörde des örtlich betroffenen Landes anzuhören. Die Gesellschaft privaten Rechts im Sinne des Infrastrukturgesellschaftserrichtungsgesetzes ist anzuhören, soweit der Betriebsbereich Bundesautobahnen oder Bundesstraßen in Bundesverwaltung umfasst oder dies vorgesehen ist.</p>
+				<p>(3) Das Kraftfahrt-Bundesamt beteiligt das Bundesamt für Sicherheit in der Informationstechnik zu Fragen der Sicherheit in der Informationstechnik bei der Erstellung, Umsetzung und bei der Weiterentwicklung und Bewertung technischer Anforderungen.</p>
+				<p>(4) Bis sechs Monate nach Inkrafttreten der Regelungen in der auf Grundlage von § 1j Absatz 1 Nummer 7 erlassenen Verordnung gelten die bisherigen straßenverkehrsrechtlichen Vorschriften zur Erprobung, auch für Entwicklungsstufen automatisierter oder autonomer Fahrfunktionen, unverändert fort, sofern nicht bereits von den Regelungen in der auf Grundlage von § 1j Absatz 1 Nummer 7 erlassenen Verordnung Gebrauch gemacht wird.</p>
+			</content>
+		</text>
+		<fussnoten>
+			</fussnoten>
+	</textdaten>
+</norm>
